@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/encrypt_split_1.dir/encrypt_split_1.cpp.o -o encrypt_split_1  ../libseal.a 

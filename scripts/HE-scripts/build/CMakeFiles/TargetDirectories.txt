@@ -1,0 +1,3 @@
+/home/sel/Desktop/msc/msc_project/scripts/HE-scripts/build/CMakeFiles/encrypt_split_1.dir
+/home/sel/Desktop/msc/msc_project/scripts/HE-scripts/build/CMakeFiles/edit_cache.dir
+/home/sel/Desktop/msc/msc_project/scripts/HE-scripts/build/CMakeFiles/rebuild_cache.dir
