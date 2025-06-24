@@ -18,6 +18,25 @@ string sanitize(const string& text) {
     return cleaned;
 }
 
+// Base64 decoder
+string from_base64(const string &in) {
+    static const string chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
+    vector<int> T(256, -1);
+    for (int i = 0; i < 64; i++) T[chars[i]] = i;
+
+    string out;
+    int val = 0, valb = -8;
+    for (unsigned char c : in) {
+        if (T[c] == -1) break;
+        val = (val << 6) + T[c];
+        valb += 6;
+        if (valb >= 0) {
+            out.push_back(char((val >> valb) & 0xFF));
+            valb -= 8;
+        }
+    }
+    return out;
+}
 
 vector<uint64_t> encode_word(const string& word, size_t slot_count) {
     vector<uint64_t> result(slot_count, 0);
@@ -64,13 +83,36 @@ int main() {
     json encrypted_data;
     in >> encrypted_data;
 
+    // Load original messages into a map for display
+unordered_map<string, string> file_to_message;
+ifstream csv("../../datasets/cleaned/cleaned_split-1.csv");
+string header, row;
+getline(csv, header); // Skip header
+
+while (getline(csv, row)) {
+    stringstream ss(row);
+    string email_id, from, to, cc, date, subject, body, message;
+
+    getline(ss, email_id, ',');
+    getline(ss, from, ',');
+    getline(ss, to, ',');
+    getline(ss, cc, ',');
+    getline(ss, date, ',');
+    getline(ss, subject, ',');
+    getline(ss, body, ',');
+    getline(ss, message); // Last field
+
+    file_to_message[email_id] = message;
+}
+
     int match_count = 0;
     for (auto& email : encrypted_data) {
         string filename = email["file"];
         auto tokens = email["tokens"];
 
         for (const auto& token_b64 : tokens) {
-            stringstream ss(token_b64.get<string>());
+            string raw = from_base64(token_b64.get<string>());
+            stringstream ss(raw);
             Ciphertext token_ctxt;
             token_ctxt.load(context, ss);
 
@@ -86,6 +128,7 @@ int main() {
             bool is_match = all_of(decoded.begin(), decoded.end(), [](uint64_t v) { return v == 0; });
             if (is_match) {
                 cout << "✅ Match in file: " << filename << endl;
+		cout << "📝 Message: " << file_to_message[filename] << "\n" << endl;
                 ++match_count;
                 break;
             }
