@@ -21,7 +21,7 @@ The goal is to perform forensic keyword searches on sensitive email datasets whi
 ---
 
 ## Folder Structure
-
+```
 msc_project/
 │
 ├── datasets/
@@ -47,7 +47,7 @@ msc_project/
 ├── clean.py                     # Dataset cleaner (removes special chars, encodes)
 ├── LICENSE                      # MIT License
 └── README.md                    # Project description and usage guide
-
+```
 
 ---
 
