@@ -1,8 +1,11 @@
 # MSc Project: Securing Third-Party Data In Forensic Investigations Using Homomorphic Encryption
 
-**Author:** Samuel Selasi  
+**Author:** Samuel Selasi
+
 **University:** University of Ghana
-**Thesis Phase:** Implementation Phase 1  
+
+**Thesis Phase:** Implementation Phase 1
+
 **Focus:** Secure keyword-based forensic investigation using Homomorphic Encryption (HE) and comparison with traditional plaintext methods.
 
 ---
@@ -22,18 +25,28 @@ The goal is to perform forensic keyword searches on sensitive email datasets whi
 msc_project/
 │
 ├── datasets/
-│ ├── original/ # Raw Enron CSV email dataset
-│ ├── cleaned/ # Cleaned plaintext version
-│ └── encrypted/ # Encrypted email content + keys
+│   ├── original/                # Raw Enron dataset (emails.csv, full)
+│   ├── cleaned/                 # Cleaned and preprocessed CSVs
+│   │   ├── split-1.csv          # Selected subset (e.g., 100 emails)
+│   │   └── cleaned_split-1.csv  # Sanitized for tokenization
+│   └── encrypted/               # Encrypted emails + keys
+│       ├── public.key
+│       ├── secret.key
+│       └── tokenized_emails.json (ignored)
 │
 ├── scripts/
-│ ├── plaintext/ # Python scripts for plaintext keyword search
-│ └── HE-scripts/ # C++ source files using Microsoft SEAL
+│   ├── plaintext/               # Plaintext search scripts (Python)
+│   │   └── search_plaintext.py
+│   └── HE-scripts/              # Homomorphic Encryption scripts (C++)
+│       ├── encrypt_split_1.cpp
+│       ├── search_encrypted.cpp
+│       ├── seal/                # SEAL headers
+│       ├── libseal.a            # Compiled SEAL static library
+│       └── build/               # Compiled binaries and keys
 │
-├── build/ # Compiled binary outputs
-│
-├── clean.py # Cleans and sanitizes raw CSV (remove non-ASCII etc.)
-└── README.md # This file
+├── clean.py                     # Dataset cleaner (removes special chars, encodes)
+├── LICENSE                      # MIT License
+└── README.md                    # Project description and usage guide
 
 
 ---
