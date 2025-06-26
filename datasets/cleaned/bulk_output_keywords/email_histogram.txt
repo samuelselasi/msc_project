@@ -1,0 +1,25 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: email
+# Filename: cleaned_split-1.txt
+# Histogram-File-Version: 1.1
+n=15	pallen@enron.com
+n=14	cbpres@austin.rr.com
+n=7	retwell@mail.sanmarcos.net
+n=6	phillip.k.allen@enron.com
+n=5	christi.smith@lrinet.com
+n=4	stagecoachmama@hotmail.com
+n=3	debe@fsddatasvc.com
+n=2	clclegal2@aol.com
+n=2	dnowak@enron.com
+n=2	mark@intelligencepress.com
+n=1	09outlook.2000@enron.com
+n=1	bs_stone@yahoo.com
+n=1	buck.buckner@honeywell.com
+n=1	enron-admin@fsddatasvc.com
+n=1	hunter.shively@enron.com
+n=1	invest@bga.com
+n=1	jeff@freeyellow.com
+n=1	john.lavorato@enron.com
+n=1	kholst@enron.com
+n=1	mike.grigsby@enron.com

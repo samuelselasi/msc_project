@@ -1,0 +1,87 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: domain
+# Filename: cleaned_split-1.txt
+# Feature-File-Version: 1.1
+1268	enron.com	p Allen (pallen@enron.com) Mike Grigsby (
+1306	enron.com	y (mike.grigsby@enron.com) Keith Holst (k
+1337	enron.com	h Holst (kholst@enron.com) Monique Sanche
+1620	64.216.90.105	 IP address IP: 64.216.90.105 Sub: 255.255.25
+1639	255.255.255.248	216.90.105 Sub: 255.255.255.248 gate: 64.216.90
+1661	64.216.90.110	5.255.248 gate: 64.216.90.110 DNS: 151.164.1.
+1680	151.164.1.8	216.90.110 DNS: 151.164.1.8 3. Company: 041
+1920	honeywell.com	" <buck.buckner@honeywell.com> on 10/12/2000 
+1975	Enron.com	M To: ""'Pallen@Enron.com'"" <Pallen@Enro
+1996	Enron.com	.com'"" <Pallen@Enron.com> cc: Subject: F
+17128	austin.rr.com	hards"" <cbpres@austin.rr.com> on 10/03/2000 
+17195	austin.rr.com	pond to <cbpres@austin.rr.com> To: ""Phillip 
+17240	enron.com	Allen"" <pallen@enron.com> cc: ""Larry Le
+17281	mail.sanmarcos.net	wter"" <retwell@mail.sanmarcos.net> Subject: Westg
+24353	austin.rr.com	hards"" <cbpres@austin.rr.com> on 09/26/2000 
+24420	austin.rr.com	pond to <cbpres@austin.rr.com> To: ""Phillip 
+24465	enron.com	Allen"" <pallen@enron.com> cc: ""Larry Le
+24506	mail.sanmarcos.net	wter"" <retwell@mail.sanmarcos.net>, ""Claudia L. 
+24561	aol.com	er"" <clclegal2@aol.com> Subject: Inves
+32915	austin.rr.com	hards"" <cbpres@austin.rr.com> on 09/26/2000 
+32982	austin.rr.com	pond to <cbpres@austin.rr.com> To: ""Phillip 
+33027	enron.com	Allen"" <pallen@enron.com> cc: ""Larry Le
+33068	mail.sanmarcos.net	wter"" <retwell@mail.sanmarcos.net>, ""Claudia L. 
+33123	aol.com	er"" <clclegal2@aol.com> Subject: Inves
+48248	yahoo.com	one"" <bs_stone@yahoo.com> on 09/26/2000 
+48304	freeyellow.com	 ""jeff"" <jeff@freeyellow.com> cc: ""Phillip 
+48361	enron.com	Phillip.K.Allen@enron.com> Subject: closi
+54864	austin.rr.com	hards"" <cbpres@austin.rr.com> on 09/08/2000 
+54931	austin.rr.com	pond to <cbpres@austin.rr.com> To: ""Phillip 
+54976	enron.com	Allen"" <pallen@enron.com> cc: ""Larry Le
+55017	mail.sanmarcos.net	wter"" <retwell@mail.sanmarcos.net> Subject: Westg
+62121	www.hearme.com	ion: 1.0 http://www.hearme.com/vc2/?chnlOwnr=p
+63722	austin.rr.com	hards"" <cbpres@austin.rr.com> on 09/08/2000 
+63789	austin.rr.com	pond to <cbpres@austin.rr.com> To: ""Phillip 
+63834	enron.com	Allen"" <pallen@enron.com> cc: ""Larry Le
+63875	mail.sanmarcos.net	wter"" <retwell@mail.sanmarcos.net> Subject: Westg
+69756	austin.rr.com	hards"" <cbpres@austin.rr.com> on 09/08/2000 
+69823	austin.rr.com	pond to <cbpres@austin.rr.com> To: ""Phillip 
+69868	enron.com	Allen"" <pallen@enron.com> cc: ""Larry Le
+69909	mail.sanmarcos.net	wter"" <retwell@mail.sanmarcos.net>, ""Diana Zunig
+69955	bga.com	uniga"" <invest@bga.com> Subject: Sagew
+71291	austin.rr.com	hards"" <cbpres@austin.rr.com> on 09/08/2000 
+71358	austin.rr.com	pond to <cbpres@austin.rr.com> To: ""Phillip 
+71403	enron.com	Allen"" <pallen@enron.com> cc: ""Larry Le
+71444	mail.sanmarcos.net	wter"" <retwell@mail.sanmarcos.net> Subject: Westg
+75955	hotmail.com	<stagecoachmama@hotmail.com> on 09/06/2000 
+76005	enron.com	5 AM To: pallen@enron.com cc: Subject: ut
+76174	www.hotmail.com	tmail at http://www.hotmail.com. Share informat
+76266	profiles.msn.com	ofile at http://profiles.msn.com. - utility.xls 
+76497	FSDDataSvc.com	--- Enron-admin@FSDDataSvc.com on 09/06/2000 1
+76549	enron.com	3 AM To: pallen@enron.com cc: Subject: TI
+77744	www.fsddatasvc.com	d go to: http://www.fsddatasvc.com/enron Your uniq
+83819	nahou	ow type: http://nahou= -msowa01p/exch
+84867	enron.com	=09Outlook.2000@enron.com Otherwise, you 
+93343	lrinet.com	 <christi.smith@lrinet.com> on 09/05/2000 
+93414	lrinet.com	 <christi.smith@lrinet.com> To: <Phillip.K
+93447	enron.com	Phillip.K.Allen@enron.com> cc: ""Debbie N
+93496	enron.com	mail)"" <dnowak@enron.com> Subject: RE: R
+93982	lrinet.com	o:christi.smith@lrinet.com] Sent: Thursday
+94056	enron.com	Phillip.K.Allen@enron.com' Cc: Debbie Now
+95258	enron.com	Phillip.K.Allen@enron.com] Sent: Thursday
+95319	fsddatasvc.com	:03 PM To: debe@fsddatasvc.com Subject: John L
+95669	intelligencepress.com	:20 PM To: mark@intelligencepress.com cc: Subject: Ma
+96637	lrinet.com	 <christi.smith@lrinet.com> on 08/31/2000 
+96708	lrinet.com	 <christi.smith@lrinet.com> To: <Phillip.K
+96741	enron.com	Phillip.K.Allen@enron.com> cc: ""Debbie N
+96790	enron.com	mail)"" <dnowak@enron.com>, ""Deborah Eva
+96835	fsddatasvc.com	E-mail)"" <debe@fsddatasvc.com> Subject: Recei
+97975	enron.com	Phillip.K.Allen@enron.com] Sent: Thursday
+98036	fsddatasvc.com	:03 PM To: debe@fsddatasvc.com Subject: John L
+103928	intelligencepress.com	:20 PM To: mark@intelligencepress.com cc: Subject: Ma
+107941	enron.com	: john.lavorato@enron.com, hunter.shively
+107967	enron.com	 hunter.shively@enron.com Brad, With rega
+112290	hotmail.com	<stagecoachmama@hotmail.com> on 08/15/2000 
+112340	enron.com	7 PM To: pallen@enron.com cc: Subject: Da
+113086	www.hotmail.com	tmail at http://www.hotmail.com"\012"Daily Report 
+113262	hotmail.com	<stagecoachmama@hotmail.com> on 08/16/2000 
+113312	enron.com	6 PM To: pallen@enron.com cc: Subject: Da
+113816	www.hotmail.com	tmail at http://www.hotmail.com"\012"Daily Report 
+113992	hotmail.com	<stagecoachmama@hotmail.com> on 08/17/2000 
+114042	enron.com	5 PM To: pallen@enron.com cc: Subject: Da
+114553	www.hotmail.com	tmail at http://www.hotmail.com"\012"Re: enron clo

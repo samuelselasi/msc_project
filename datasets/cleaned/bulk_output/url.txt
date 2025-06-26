@@ -1,0 +1,13 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: url
+# Filename: bulk_input.txt
+# Feature-File-Version: 1.1
+73955	http://www.hearme.com/vc2/?chnlOwnr=pallen@enron.com	sion: 1.0\012Body: http://www.hearme.com/vc2/?chnlOwnr=pallen@enron.com\012\012==============
+90122	http://www.hotmail.com	 MSN Hotmail at http://www.hotmail.com. Share informat
+90214	http://profiles.msn.com	blic profile at http://profiles.msn.com. - utility.xls 
+91928	http://www.fsddatasvc.com/enron	wser and go to: http://www.fsddatasvc.com/enron Your unique ID 
+98475	http://nahou	ss window type: http://nahou= -msowa01p/exch
+136254	http://www.hotmail.com	 MSN Hotmail at http://www.hotmail.com\012\012==============
+137219	http://www.hotmail.com	 MSN Hotmail at http://www.hotmail.com\012\012==============
+138191	http://www.hotmail.com	 MSN Hotmail at http://www.hotmail.com\012\012==============

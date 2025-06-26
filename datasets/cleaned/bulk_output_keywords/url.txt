@@ -1,0 +1,13 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: url
+# Filename: cleaned_split-1.txt
+# Feature-File-Version: 1.1
+62114	http://www.hearme.com/vc2/?chnlOwnr=pallen@enron.com	me-Version: 1.0 http://www.hearme.com/vc2/?chnlOwnr=pallen@enron.com\012"Re: 2- SURVEY 
+76167	http://www.hotmail.com	 MSN Hotmail at http://www.hotmail.com. Share informat
+76259	http://profiles.msn.com	blic profile at http://profiles.msn.com. - utility.xls 
+77737	http://www.fsddatasvc.com/enron	wser and go to: http://www.fsddatasvc.com/enron Your unique ID 
+83812	http://nahou	ss window type: http://nahou= -msowa01p/exch
+113079	http://www.hotmail.com	 MSN Hotmail at http://www.hotmail.com"\012"Daily Report 
+113809	http://www.hotmail.com	 MSN Hotmail at http://www.hotmail.com"\012"Daily Report 
+114546	http://www.hotmail.com	 MSN Hotmail at http://www.hotmail.com"\012"Re: enron clo

@@ -1,0 +1,10 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: url
+# Filename: cleaned_split-1.txt
+# Histogram-File-Version: 1.1
+n=4	http://www.hotmail.com
+n=1	http://nahou
+n=1	http://profiles.msn.com
+n=1	http://www.fsddatasvc.com/enron
+n=1	http://www.hearme.com/vc2/?chnlOwnr=pallen@enron.com

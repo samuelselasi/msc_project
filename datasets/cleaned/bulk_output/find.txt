@@ -1,0 +1,502 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: find
+# Filename: bulk_input.txt
+# Feature-File-Version: 1.1
+10	all	Email ID: allen-p/_sent_mail/
+46	all	.\012From: phillip.allen@enron.com\012To:
+286	all	====\012\012Email ID: allen-p/_sent_mail/
+323	all	.\012From: phillip.allen@enron.com\012To:
+511	all	the trip. Especially if you have to
+1304	all	====\012\012Email ID: allen-p/_sent_mail/
+1342	all	.\012From: phillip.allen@enron.com\012To:
+1371	all	om\012To: leah.arsdall@enron.com\012CC: n
+1584	all	====\012\012Email ID: allen-p/_sent_mail/
+1623	all	.\012From: phillip.allen@enron.com\012To:
+1647	all	ron.com\012To: randall.gay@enron.com\012C
+2024	all	====\012\012Email ID: allen-p/_sent_mail/
+2063	all	.\012From: phillip.allen@enron.com\012To:
+2308	all	====\012\012Email ID: allen-p/_sent_mail/
+2347	all	.\012From: phillip.allen@enron.com\012To:
+2615	all	====\012\012Email ID: allen-p/_sent_mail/
+2654	all	.\012From: phillip.allen@enron.com\012To:
+2872	All	pdates: Phillip Allen (pallen@enron
+2880	all	Phillip Allen (pallen@enron.com) Mi
+3040	All	ur help Phillip Allen\012\012============
+3139	all	====\012\012Email ID: allen-p/_sent_mail/
+3178	all	.\012From: phillip.allen@enron.com\012To:
+3308	all	review - phone calls\012Body: any morn
+3445	all	====\012\012Email ID: allen-p/_sent_mail/
+3483	all	.\012From: phillip.allen@enron.com\012To:
+3633	all	ody: 1. login: pallen pw: ke9davis 
+3914	all	====\012\012Email ID: allen-p/_sent_mail/
+3952	all	.\012From: phillip.allen@enron.com\012To:
+4157	All	ed by Phillip K Allen/HOU/ECT on 10
+4300	all	12:21 PM To: "'Pallen@Enron.com'" <
+4320	all	n@Enron.com'" <Pallen@Enron.com> cc
+4469	all	sation, In a Parallon 75 microturbi
+5272	all	e proposing installing 180 - 240 un
+5389	all	 because of installation hurdles fa
+5416	all	rdles face at small percent. > > Fo
+5906	all	ons, give me a call. > Let me assur
+6285	all	====\012\012Email ID: allen-p/_sent_mail/
+6323	all	.\012From: phillip.allen@enron.com\012To:
+6695	All	3-7107. Phillip Allen\012\012============
+6794	all	====\012\012Email ID: allen-p/_sent_mail/
+6832	all	.\012From: phillip.allen@enron.com\012To:
+7342	all	====\012\012Email ID: allen-p/_sent_mail/
+7380	all	.\012From: phillip.allen@enron.com\012To:
+7578	All	ed by Phillip K Allen/HOU/ECT on 10
+7696	All	M To: Phillip K Allen/HOU/ECT@ECT c
+8012	All	first bullet in Allan's list; the n
+8299	all	ednesday, Keith alluded to the inab
+9478	All	--------------- Allan Severude 10/0
+9988	all	t traders. We really need a single 
+10453	all	which requests fall under the proje
+10574	all	ject and which fall out of scope. F
+10803	all	: main view and all drill downs. Us
+11307	all	-time values of all curves on which
+11398	all	osition grid to allow daily positio
+11922	all	regation across all gas desks. Abil
+12100	all	lity to revalue all options increme
+12121	all	ptions incrementally throughout the
+12974	All	 out issues. -- Allan. PS: Colleen 
+13230	all	====\012\012Email ID: allen-p/_sent_mail/
+13268	all	.\012From: phillip.allen@enron.com\012To:
+13466	All	ed by Phillip K Allen/HOU/ECT on 10
+13584	All	M To: Phillip K Allen/HOU/ECT@ECT c
+13900	All	first bullet in Allan's list; the n
+14187	all	ednesday, Keith alluded to the inab
+15366	All	--------------- Allan Severude 10/0
+15876	all	t traders. We really need a single 
+16341	all	which requests fall under the proje
+16462	all	ject and which fall out of scope. F
+16691	all	: main view and all drill downs. Us
+17195	all	-time values of all curves on which
+17286	all	osition grid to allow daily positio
+17810	all	regation across all gas desks. Abil
+17988	all	lity to revalue all options increme
+18009	all	ptions incrementally throughout the
+18862	All	 out issues. -- Allan. PS: Colleen 
+19118	all	====\012\012Email ID: allen-p/_sent_mail/
+19156	all	.\012From: phillip.allen@enron.com\012To:
+19486	all	====\012\012Email ID: allen-p/_sent_mail/
+19524	all	.\012From: phillip.allen@enron.com\012To:
+19781	all	====\012\012Email ID: allen-p/_sent_mail/
+19819	all	.\012From: phillip.allen@enron.com\012To:
+20009	All	ed by Phillip K Allen/HOU/ECT on 10
+20154	All	M To: Phillip K Allen/HOU/ECT@ECT, 
+20789	all	e feel free to call me. Thanks, Rai
+20911	all	====\012\012Email ID: allen-p/_sent_mail/
+20948	all	.\012From: phillip.allen@enron.com\012To:
+21315	all	====\012\012Email ID: allen-p/_sent_mail/
+21353	all	.\012From: phillip.allen@enron.com\012To:
+21374	all	@enron.com\012To: pallen70@hotmail.com
+21515	All	ed by Phillip K Allen/HOU/ECT on 10
+21701	All	m> To: "Phillip Allen" <pallen@enro
+21710	all	hillip Allen" <pallen@enron.com> cc
+21865	All	from Investor's Alliance. Investor'
+21886	All	nce. Investor's Alliance says that 
+22779	all	dent housing of all new projects, j
+23264	all	====\012\012Email ID: allen-p/_sent_mail/
+23302	all	.\012From: phillip.allen@enron.com\012To:
+23498	All	ed by Phillip K Allen/HOU/ECT on 10
+23570	all	-------- Nancy Hall@ENRON 10/02/200
+23641	All	nron, Phillip K Allen/HOU/ECT@ECT, 
+24055	all	Regards, Nancy Hall ENA Denver offi
+24183	all	====\012\012Email ID: allen-p/_sent_mail/
+24221	all	.\012From: phillip.allen@enron.com\012To:
+24575	all	====\012\012Email ID: allen-p/_sent_mail/
+24613	all	.\012From: phillip.allen@enron.com\012To:
+24901	all	====\012\012Email ID: allen-p/_sent_mail/
+24939	all	.\012From: phillip.allen@enron.com\012To:
+25308	all	====\012\012Email ID: allen-p/_sent_mail/
+25346	all	.\012From: phillip.allen@enron.com\012To:
+25507	All	ed by Phillip K Allen/HOU/ECT on 09
+25588	All	From: Phillip K Allen 09/28/2000 10
+26084	all	lation. Additionally, these trades 
+27023	all	hat are dramatically different. I u
+27705	All	cerely, Phillip Allen\012\012============
+27804	all	====\012\012Email ID: allen-p/_sent_mail/
+27842	all	.\012From: phillip.allen@enron.com\012To:
+28454	all	lation. Additionally, these trades 
+29393	all	hat are dramatically different. I u
+30075	All	cerely, Phillip Allen\012\012============
+30174	all	====\012\012Email ID: allen-p/_sent_mail/
+30212	all	.\012From: phillip.allen@enron.com\012To:
+30383	All	ed by Phillip K Allen/HOU/ECT on 09
+30569	All	m> To: "Phillip Allen" <pallen@enro
+30578	all	hillip Allen" <pallen@enron.com> cc
+30731	all	STRUCTURE: Typically the structure 
+31151	all	l investors and all of the principa
+31203	all	ould also personally guarantee the 
+31284	all	oans, this generally means that a l
+31384	All	its is reduced. All loans for resid
+33236	all	 fiscals are usually posted in cash
+33479	all	nt loan is typically 75% of the app
+33582	all	,000 and potentially as high as $25
+34102	all	oan would cover all costs, it is un
+34143	all	 the bank would allow reimbursement
+35795	all	ject and expect all other loans to 
+37202	all	partnership. Finally, CB will recei
+37487	all	roofing and drywall spreading. REPO
+38464	all	ous rapport. Finally, for vendors t
+38733	all	tarting point. Call when you have r
+38957	all	====\012\012Email ID: allen-p/_sent_mail/
+38995	all	.\012From: phillip.allen@enron.com\012To:
+39016	all	@enron.com\012To: pallen70@hotmail.com
+39170	All	ed by Phillip K Allen/HOU/ECT on 09
+39356	All	m> To: "Phillip Allen" <pallen@enro
+39365	all	hillip Allen" <pallen@enron.com> cc
+39518	all	STRUCTURE: Typically the structure 
+39938	all	l investors and all of the principa
+39990	all	ould also personally guarantee the 
+40071	all	oans, this generally means that a l
+40171	All	its is reduced. All loans for resid
+42023	all	 fiscals are usually posted in cash
+42266	all	nt loan is typically 75% of the app
+42369	all	,000 and potentially as high as $25
+42889	all	oan would cover all costs, it is un
+42930	all	 the bank would allow reimbursement
+44582	all	ject and expect all other loans to 
+45989	all	partnership. Finally, CB will recei
+46274	all	roofing and drywall spreading. REPO
+47251	all	ous rapport. Finally, for vendors t
+47520	all	tarting point. Call when you have r
+47744	all	====\012\012Email ID: allen-p/_sent_mail/
+47782	all	.\012From: phillip.allen@enron.com\012To:
+47954	All	ed by Phillip K Allen/HOU/ECT on 09
+48372	All	U/ECT Phillip K Allen/HOU/ECT Allan
+48386	All	K Allen/HOU/ECT Allan Severude/HOU/
+48519	All	ed by Phillip K Allen/HOU/ECT on 09
+48939	All	U/ECT Phillip K Allen/HOU/ECT Allan
+48953	All	K Allen/HOU/ECT Allan Severude/HOU/
+49155	All	ponse Phillip K Allen -> No Respons
+49176	All	 -> No Response Allan Severude -> A
+49302	All	ed by Phillip K Allen/HOU/ECT on 09
+49647	All	ates: Phillip K Allen/HOU/ECT@ECT H
+49718	All	lls/HOU/ECT@ECT Allan Severude/HOU/
+49955	All	ed by Phillip K Allen/HOU/ECT on 09
+50302	All	ates: Phillip K Allen/HOU/ECT@ECT H
+50373	All	lls/HOU/ECT@ECT Allan Severude/HOU/
+50589	All	date: Phillip K Allen -> No Respons
+50669	All	 -> No Response Allan Severude -> A
+50890	All	ed by Phillip K Allen/HOU/ECT on 09
+51308	All	U/ECT Phillip K Allen/HOU/ECT Allan
+51322	All	K Allen/HOU/ECT Allan Severude/HOU/
+51455	All	ed by Phillip K Allen/HOU/ECT on 09
+51875	All	U/ECT Phillip K Allen/HOU/ECT Allan
+51889	All	K Allen/HOU/ECT Allan Severude/HOU/
+52091	All	ponse Phillip K Allen -> No Respons
+52112	All	 -> No Response Allan Severude -> A
+52235	All	ed by Phillip K Allen/HOU/ECT on 09
+52356	All	M To: Phillip K Allen/HOU/ECT@ECT, 
+52430	All	ls/HOU/ECT@ECT, Allan Severude/HOU/
+52768	all	otes. Sorry for all of the changes 
+52967	all	====\012\012Email ID: allen-p/_sent_mail/
+53004	all	.\012From: phillip.allen@enron.com\012To:
+53679	all	====\012\012Email ID: allen-p/_sent_mail/
+53717	all	.\012From: phillip.allen@enron.com\012To:
+54017	all	====\012\012Email ID: allen-p/_sent_mail/
+54055	all	.\012From: phillip.allen@enron.com\012To:
+54227	All	ed by Phillip K Allen/HOU/ECT on 09
+54572	All	ates: Phillip K Allen/HOU/ECT Hunte
+54631	All	t Mills/HOU/ECT Allan Severude/HOU/
+54891	all	====\012\012Email ID: allen-p/_sent_mail/
+54929	all	.\012From: phillip.allen@enron.com\012To:
+55115	All	ed by Phillip K Allen/HOU/ECT on 09
+55236	All	M To: Phillip K Allen/HOU/ECT@ECT, 
+55310	All	ls/HOU/ECT@ECT, Allan Severude/HOU/
+55723	all	====\012\012Email ID: allen-p/_sent_mail/
+55761	all	.\012From: phillip.allen@enron.com\012To:
+55922	All	ed by Phillip K Allen/HOU/ECT on 09
+56093	All	 cc: "Phillip K Allen" <Phillip.K.A
+56111	All	len" <Phillip.K.Allen@enron.com> Su
+57087	All	ine and Phillip Allen's transaction
+57326	all	 closing. ? I really do not want to
+57456	all	ut this paper really doesn't seem t
+57747	all	====\012\012Email ID: allen-p/_sent_mail/
+57785	all	.\012From: phillip.allen@enron.com\012To:
+58009	all	regarding EOL. Call me when you can
+58138	all	====\012\012Email ID: allen-p/_sent_mail/
+58176	all	.\012From: phillip.allen@enron.com\012To:
+58348	All	ed by Phillip K Allen/HOU/ECT on 09
+58766	All	U/ECT Phillip K Allen/HOU/ECT Allan
+58780	All	K Allen/HOU/ECT Allan Severude/HOU/
+59125	All	ited) Phillip K Allen/HOU/ECT (Invi
+59149	All	U/ECT (Invited) Allan Severude/HOU/
+59382	all	====\012\012Email ID: allen-p/_sent_mail/
+59420	all	.\012From: phillip.allen@enron.com\012To:
+59592	All	ed by Phillip K Allen/HOU/ECT on 09
+60010	All	U/ECT Phillip K Allen/HOU/ECT Allan
+60024	All	K Allen/HOU/ECT Allan Severude/HOU/
+60204	all	====\012\012Email ID: allen-p/_sent_mail/
+60242	all	.\012From: phillip.allen@enron.com\012To:
+60427	all	e # and I will call you. Keith\012\012===
+60535	all	====\012\012Email ID: allen-p/_sent_mail/
+60573	all	.\012From: phillip.allen@enron.com\012To:
+61019	all	====\012\012Email ID: allen-p/_sent_mail/
+61057	all	.\012From: phillip.allen@enron.com\012To:
+61364	all	y are scrubbing all their books and
+61536	all	====\012\012Email ID: allen-p/_sent_mail/
+61573	all	.\012From: phillip.allen@enron.com\012To:
+61741	all	e a conference call or some type of
+61782	all	y meeting about all the regulatory 
+61982	all	====\012\012Email ID: allen-p/_sent_mail/
+62020	all	.\012From: phillip.allen@enron.com\012To:
+62341	all	rtner? What are all the legal entit
+62720	all	the 700,000 actually needed? Now or
+64455	all	====\012\012Email ID: allen-p/_sent_mail/
+64493	all	.\012From: phillip.allen@enron.com\012To:
+64514	all	@enron.com\012To: pallen70@hotmail.com
+64621	All	roforma-Phillip Allen.xls\012Body: ---
+64683	All	ed by Phillip K Allen/HOU/ECT on 09
+64869	All	m> To: "Phillip Allen" <pallen@enro
+64878	all	hillip Allen" <pallen@enron.com> cc
+64978	All	roforma-Phillip Allen.xls Enclosed 
+65223	all	. This is especially attractive whe
+65738	all	months. Additionally, many of the c
+68046	all	d feel free to call at any time. Yo
+68432	all	 few weeks. A small freakish wind s
+69260	All	roforma-Phillip Allen.xls\012\012========
+69363	all	====\012\012Email ID: allen-p/_sent_mail/
+69401	all	.\012From: phillip.allen@enron.com\012To:
+69942	all	n any deals actually done to date. 
+70031	all	mail and phone call about Cherry Cr
+70152	All	operty. Phillip Allen\012\012============
+70251	all	====\012\012Email ID: allen-p/_sent_mail/
+70289	all	.\012From: phillip.allen@enron.com\012To:
+70545	all	====\012\012Email ID: allen-p/_sent_mail/
+70583	all	.\012From: phillip.allen@enron.com\012To:
+71079	all	====\012\012Email ID: allen-p/_sent_mail/
+71117	all	.\012From: phillip.allen@enron.com\012To:
+71526	all	====\012\012Email ID: allen-p/_sent_mail/
+71564	all	.\012From: phillip.allen@enron.com\012To:
+72232	all	====\012\012Email ID: allen-p/_sent_mail/
+72270	all	.\012From: phillip.allen@enron.com\012To:
+73115	all	====\012\012Email ID: allen-p/_sent_mail/
+73153	all	.\012From: phillip.allen@enron.com\012To:
+73366	All	ed by Phillip K Allen/HOU/ECT on 09
+73482	All	M To: Phillip K Allen/HOU/ECT@ECT c
+73790	all	====\012\012Email ID: allen-p/_sent_mail/
+73828	all	.\012From: phillip.allen@enron.com\012To:
+73992	all	/vc2/?chnlOwnr=pallen@enron.com\012\012==
+74101	all	====\012\012Email ID: allen-p/_sent_mail/
+74138	all	.\012From: phillip.allen@enron.com\012To:
+74170	all	To: tori.kuykendall@enron.com\012CC: n
+74268	ALL	URVEY - PHILLIP ALLEN\012Body: -------
+74326	All	ed by Phillip K Allen/HOU/ECT on 05
+74436	All	M To: Phillip K Allen/HOU/ECT@ECT c
+74491	ALL	URVEY - PHILLIP ALLEN - Full Name: 
+74518	All	l Name: Phillip Allen Login ID: pal
+74535	all	llen Login ID: pallen Extension: 3-
+75272	all	 NO Please list all Notes databases
+75720	all	====\012\012Email ID: allen-p/_sent_mail/
+75758	all	.\012From: phillip.allen@enron.com\012To:
+75887	All	roforma-Phillip Allen.xls\012Body: ---
+75949	All	ed by Phillip K Allen/HOU/ECT on 09
+76135	All	m> To: "Phillip Allen" <pallen@enro
+76144	all	hillip Allen" <pallen@enron.com> cc
+76244	All	roforma-Phillip Allen.xls Enclosed 
+76489	all	. This is especially attractive whe
+77004	all	months. Additionally, many of the c
+79312	all	d feel free to call at any time. Yo
+79698	all	 few weeks. A small freakish wind s
+80526	All	roforma-Phillip Allen.xls\012\012========
+80629	all	====\012\012Email ID: allen-p/_sent_mail/
+80667	all	.\012From: phillip.allen@enron.com\012To:
+81273	all	====\012\012Email ID: allen-p/_sent_mail/
+81311	all	.\012From: phillip.allen@enron.com\012To:
+81864	all	====\012\012Email ID: allen-p/_sent_mail/
+81902	all	.\012From: phillip.allen@enron.com\012To:
+82243	all	====\012\012Email ID: allen-p/_sent_mail/
+82281	all	.\012From: phillip.allen@enron.com\012To:
+82953	all	====\012\012Email ID: allen-p/_sent_mail/
+82991	all	.\012From: phillip.allen@enron.com\012To:
+83012	all	@enron.com\012To: pallen70@hotmail.com
+83164	All	ed by Phillip K Allen/HOU/ECT on 09
+83350	All	m> To: "Phillip Allen" <pallen@enro
+83359	all	hillip Allen" <pallen@enron.com> cc
+83769	all	d b) they are smaller units. We do 
+84181	all	ility. You have all of our current 
+84506	all	hillip, I will call you today to go
+84700	all	====\012\012Email ID: allen-p/_sent_mail/
+84738	all	.\012From: phillip.allen@enron.com\012To:
+84759	all	@enron.com\012To: pallen70@hotmail.com
+84865	All	roforma-Phillip Allen.xls\012Body: ---
+84927	All	ed by Phillip K Allen/HOU/ECT on 09
+85113	All	m> To: "Phillip Allen" <pallen@enro
+85122	all	hillip Allen" <pallen@enron.com> cc
+85222	All	roforma-Phillip Allen.xls Enclosed 
+85467	all	. This is especially attractive whe
+85982	all	months. Additionally, many of the c
+88290	all	d feel free to call at any time. Yo
+88676	all	 few weeks. A small freakish wind s
+89504	All	roforma-Phillip Allen.xls\012\012========
+89607	all	====\012\012Email ID: allen-p/_sent_mail/
+89645	all	.\012From: phillip.allen@enron.com\012To:
+89666	all	@enron.com\012To: pallen70@hotmail.com
+89813	All	ed by Phillip K Allen/HOU/ECT on 09
+89954	all	9:06:45 AM To: pallen@enron.com cc:
+90360	all	====\012\012Email ID: allen-p/_sent_mail/
+90398	all	.\012From: phillip.allen@enron.com\012To:
+90611	All	ed by Phillip K Allen/HOU/ECT on 09
+90734	all	0:12:33 AM To: pallen@enron.com cc:
+92166	all	oblems, please call Dennis Ward at 
+92507	all	====\012\012Email ID: allen-p/_sent_mail/
+92545	all	.\012From: phillip.allen@enron.com\012To:
+93289	all	ry interested. Call or email with y
+93423	all	====\012\012Email ID: allen-p/_sent_mail/
+93460	all	.\012From: phillip.allen@enron.com\012To:
+93651	All	ed by Phillip K Allen/HOU/ECT on 05
+93773	All	 01:01 PM To:=09Allison Horton/NA/E
+96174	All	@ECT, Phillip K Allen/HOU/ECT@ECT, 
+96197	all	OU/ECT@ECT, Randall L Gay/HOU/ECT@E
+96234	all	, Tori Kuy= kendall/HOU/ECT@ECT, Br
+96694	All	T@ECT, Rober= t Allwein/HOU/ECT@ECT
+97176	all	SA@MGUSA, Ruth Balladares/NYC/MGUSA
+99256	all	 and Message Recall - Sharing Conta
+99737	all	====\012\012Email ID: allen-p/_sent_mail/
+99775	all	.\012From: phillip.allen@enron.com\012To:
+100052	all	====\012\012Email ID: allen-p/_sent_mail/
+100090	all	.\012From: phillip.allen@enron.com\012To:
+100298	All	ed by Phillip K Allen/HOU/ECT on 09
+100410	All	M To: Phillip K Allen/HOU/ECT@ECT c
+100621	all	@ECT, Sean Crandall/PDX/ECT@ECT, Ti
+102573	all	-known Silicon Valley company calle
+102588	all	Valley company called Exodus Commun
+103055	all	h power for a small town and eventu
+103074	all	 town and eventually house Internet
+103690	all	a and the Kent Valley that some hav
+103989	all	ar Southcenter Mall," said Karl Kar
+104981	all	epresent potentially lucrative busi
+105194	all	ey could potentially flood the util
+105399	all	es are what we call extremely dense
+105582	all	hts at the football game to the Med
+106304	all	d Zama Networks all lease space in 
+107982	all	====\012\012Email ID: allen-p/_sent_mail/
+108020	all	.\012From: phillip.allen@enron.com\012To:
+108272	All	ed by Phillip K Allen/HOU/ECT on 09
+108393	All	M To: Phillip K Allen/HOU/ECT@ECT c
+108605	all	====\012\012Email ID: allen-p/_sent_mail/
+108643	all	.\012From: phillip.allen@enron.com\012To:
+108867	all	====\012\012Email ID: allen-p/_sent_mail/
+108905	all	.\012From: phillip.allen@enron.com\012To:
+109124	All	ed by Phillip K Allen/HOU/ECT on 09
+109318	All	 To: <Phillip.K.Allen@enron.com> cc
+109925	All	 To: 'Phillip.K.Allen@enron.com' Cc
+110186	all	information. Ideally, we needed to 
+111103	All	From: Phillip K Allen [mailto:Phill
+111127	All	ailto:Phillip.K.Allen@enron.com] Se
+111455	all	====\012\012Email ID: allen-p/_sent_mail/
+111493	all	.\012From: phillip.allen@enron.com\012To:
+111672	All	ed by Phillip K Allen/HOU/ECT on 09
+111753	All	From: Phillip K Allen 08/29/2000 02
+112038	all	====\012\012Email ID: allen-p/_sent_mail/
+112076	all	.\012From: phillip.allen@enron.com\012To:
+112258	All	ed by Phillip K Allen/HOU/ECT on 09
+112401	All	M To: Phillip K Allen/HOU/ECT@ECT c
+112562	all	====\012\012Email ID: allen-p/_sent_mail/
+112600	all	.\012From: phillip.allen@enron.com\012To:
+113002	all	====\012\012Email ID: allen-p/_sent_mail/
+113040	all	.\012From: phillip.allen@enron.com\012To:
+113374	all	====\012\012Email ID: allen-p/_sent_mail/
+113412	all	.\012From: phillip.allen@enron.com\012To:
+113628	All	ed by Phillip K Allen/HOU/ECT on 08
+113822	All	 To: <Phillip.K.Allen@enron.com> cc
+114111	all	information. Ideally, we needed to 
+115028	All	From: Phillip K Allen [mailto:Phill
+115052	All	ailto:Phillip.K.Allen@enron.com] Se
+115380	all	====\012\012Email ID: allen-p/_sent_mail/
+115417	all	.\012From: phillip.allen@enron.com\012To:
+115598	All	ed by Phillip K Allen/HOU/ECT on 05
+115720	All	 01:00 PM To:=09Allison Horton/NA/E
+118121	All	@ECT, Phillip K Allen/HOU/ECT@ECT, 
+118144	all	OU/ECT@ECT, Randall L Gay/HOU/ECT@E
+118181	all	, Tori Kuy= kendall/HOU/ECT@ECT, Br
+118641	All	T@ECT, Rober= t Allwein/HOU/ECT@ECT
+119123	all	SA@MGUSA, Ruth Balladares/NYC/MGUSA
+119586	all	y will automatically be sent to the
+120579	all	=20 Please list all Notes databases
+120995	all	====\012\012Email ID: allen-p/_sent_mail/
+121033	all	.\012From: phillip.allen@enron.com\012To:
+121395	all	====\012\012Email ID: allen-p/_sent_mail/
+121433	all	.\012From: phillip.allen@enron.com\012To:
+121602	All	ed by Phillip K Allen/HOU/ECT on 08
+121683	All	From: Phillip K Allen 08/29/2000 02
+121968	all	====\012\012Email ID: allen-p/_sent_mail/
+122006	all	.\012From: phillip.allen@enron.com\012To:
+122423	all	====\012\012Email ID: allen-p/_sent_mail/
+122461	all	.\012From: phillip.allen@enron.com\012To:
+122748	all	====\012\012Email ID: allen-p/_sent_mail/
+122786	all	.\012From: phillip.allen@enron.com\012To:
+123133	all	====\012\012Email ID: allen-p/_sent_mail/
+123171	all	.\012From: phillip.allen@enron.com\012To:
+123549	all	====\012\012Email ID: allen-p/_sent_mail/
+123587	all	.\012From: phillip.allen@enron.com\012To:
+123868	all	====\012\012Email ID: allen-p/_sent_mail/
+123906	all	.\012From: phillip.allen@enron.com\012To:
+124128	All	ed by Phillip K Allen/HOU/ECT on 08
+124672	All	@ECT, Phillip K Allen/HOU/ECT@ECT S
+124843	all	====\012\012Email ID: allen-p/_sent_mail/
+124881	all	.\012From: phillip.allen@enron.com\012To:
+125063	all	sword that will allow you temporary
+125261	all	ine.com and install shockwave using
+125501	all	ing in you can call me at (713)853-
+125602	all	e Shockwave installer can be found 
+125957	All	cerely, Phillip Allen\012\012============
+126056	all	====\012\012Email ID: allen-p/_sent_mail/
+126094	all	.\012From: phillip.allen@enron.com\012To:
+127014	all	ron Online will allow you to monito
+127131	all	ations. Please call with any questi
+127256	all	====\012\012Email ID: allen-p/_sent_mail/
+127293	all	.\012From: phillip.allen@enron.com\012To:
+127496	all	m Keith Holst. Call me if you did n
+127633	all	====\012\012Email ID: allen-p/_sent_mail/
+127671	all	.\012From: phillip.allen@enron.com\012To:
+128102	all	====\012\012Email ID: allen-p/_sent_mail/
+128140	all	.\012From: phillip.allen@enron.com\012To:
+128502	all	====\012\012Email ID: allen-p/_sent_mail/
+128540	all	.\012From: phillip.allen@enron.com\012To:
+128784	all	 to Tori Kuykendall, I would like t
+129347	all	====\012\012Email ID: allen-p/_sent_mail/
+129385	all	.\012From: phillip.allen@enron.com\012To:
+129686	all	====\012\012Email ID: allen-p/_sent_mail/
+129724	all	.\012From: phillip.allen@enron.com\012To:
+130611	all	====\012\012Email ID: allen-p/_sent_mail/
+130649	all	.\012From: phillip.allen@enron.com\012To:
+130964	all	====\012\012Email ID: allen-p/_sent_mail/
+131002	all	.\012From: phillip.allen@enron.com\012To:
+131271	all	====\012\012Email ID: allen-p/_sent_mail/
+131309	all	.\012From: phillip.allen@enron.com\012To:
+131621	all	It is 2:00. I really want to make s
+131774	all	====\012\012Email ID: allen-p/_sent_mail/
+131812	all	.\012From: phillip.allen@enron.com\012To:
+132146	all	====\012\012Email ID: allen-p/_sent_mail/
+132184	all	.\012From: phillip.allen@enron.com\012To:
+132414	all	etter to be a small commercial or a
+132781	all	====\012\012Email ID: allen-p/_sent_mail/
+132818	all	.\012From: phillip.allen@enron.com\012To:
+132997	All	ed by Phillip K Allen/HOU/ECT on 04
+133108	All	M To: Phillip K Allen/HOU/ECT@ECT c
+133757	all	hat it reflects all of the "stupid 
+134152	all	====\012\012Email ID: allen-p/_sent_mail/
+134190	all	.\012From: phillip.allen@enron.com\012To:
+135163	all	====\012\012Email ID: allen-p/_sent_mail/
+135201	all	.\012From: phillip.allen@enron.com\012To:
+135222	all	@enron.com\012To: pallen70@hotmail.com
+135368	All	ed by Phillip K Allen/HOU/ECT on 08
+135509	all	2:32:57 PM To: pallen@enron.com cc:
+136103	all	 how that goes call you tomorrow Th
+136370	all	====\012\012Email ID: allen-p/_sent_mail/
+136408	all	.\012From: phillip.allen@enron.com\012To:
+136429	all	@enron.com\012To: pallen70@hotmail.com
+136575	All	ed by Phillip K Allen/HOU/ECT on 08
+136716	all	2:44:36 PM To: pallen@enron.com cc:
+137335	all	====\012\012Email ID: allen-p/_sent_mail/
+137373	all	.\012From: phillip.allen@enron.com\012To:
+137394	all	@enron.com\012To: pallen70@hotmail.com
+137540	All	ed by Phillip K Allen/HOU/ECT on 08
+137681	all	2:37:55 PM To: pallen@enron.com cc:
+138307	all	====\012\012Email ID: allen-p/_sent_mail/
+138345	all	.\012From: phillip.allen@enron.com\012To:

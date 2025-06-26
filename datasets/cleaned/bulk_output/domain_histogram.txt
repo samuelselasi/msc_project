@@ -1,0 +1,35 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: domain
+# Filename: bulk_input.txt
+# Histogram-File-Version: 1.1
+n=188	enron.com
+n=22	hotmail.com
+n=16	austin.rr.com
+n=7	intelligencepress.com
+n=7	mail.sanmarcos.net
+n=6	yahoo.com
+n=5	austintx.com
+n=5	lrinet.com
+n=4	fsddatasvc.com
+n=4	www.hotmail.com
+n=2	Enron.com
+n=2	aol.com
+n=2	honeywell.com
+n=2	rssmb.com
+n=2	thedoghousemail.com
+n=1	151.164.1.8
+n=1	255.255.255.248
+n=1	64.216.90.105
+n=1	64.216.90.110
+n=1	FSDDataSvc.com
+n=1	bga.com
+n=1	freeyellow.com
+n=1	mh.com
+n=1	nahou
+n=1	natsource.com
+n=1	pira.com
+n=1	profiles.msn.com
+n=1	sanmarcos.net
+n=1	www.fsddatasvc.com
+n=1	www.hearme.com

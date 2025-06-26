@@ -1,0 +1,48 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: rfc822
+# Filename: cleaned_split-1.txt
+# Feature-File-Version: 1.1
+2011	Subject: FW: fixed forward or other Collar floor gas price terms Phillip, > As discussed 	@Enron.com> cc: Subject: FW: fixed forward or other Collar floor gas price terms Phillip, > As discussed during our phone
+4690	Subject: Consolidated positions: Issues & To Do list Phillip, Below is the issues & to do	man/HOU/ECT@ECT Subject: Consolidated positions: Issues & To Do list Phillip, Below is the issues & to do list as we go f
+6596	Subject: Consolidated positions: Issues & To Do list From our initial set of meetings wit	 Ha/HOU/ECT@ECT Subject: Consolidated positions: Issues & To Do list From our initial set of meetings with the traders re
+10341	Subject: Consolidated positions: Issues & To Do list Phillip, Below is the issues & to do	man/HOU/ECT@ECT Subject: Consolidated positions: Issues & To Do list Phillip, Below is the issues & to do list as we go f
+12247	Subject: Consolidated positions: Issues & To Do list From our initial set of meetings wit	 Ha/HOU/ECT@ECT Subject: Consolidated positions: Issues & To Do list From our initial set of meetings with the traders re
+16531	Subject: Var, Reporting and Resources Meeting Please plan to attend the below Meeting: To	lis/HOU/ECT@ect Subject: Var, Reporting and Resources Meeting Please plan to attend the below Meeting: Topic: Var, Report
+17301	Subject: Westgate Westgate Enclosed are demographics on the Westgate site from Investor's	.sanmarcos.net> Subject: Westgate Westgate Enclosed are demographics on the Westgate site from Investor's Alliance. Inves
+19130	Subject: Meeting re: Storage Strategies in the West There will be a meeting on Tuesday, O	orp/Enron@ENRON Subject: Meeting re: Storage Strategies in the West There will be a meeting on Tuesday, Oct. 10th at 4:00
+24570	Subject: Investment Structure STRUCTURE: Typically the structure is a limited partnership	legal2@aol.com> Subject: Investment Structure STRUCTURE: Typically the structure is a limited partnership with a corporat
+33132	Subject: Investment Structure STRUCTURE: Typically the structure is a limited partnership	legal2@aol.com> Subject: Investment Structure STRUCTURE: Typically the structure is a limited partnership with a corporat
+46035	Subject: Gas Trading Vision mtg. This meeting has been moved to 4:00 on Wed. in room 2601	HOU/ECT@ECT cc: Subject: Gas Trading Vision mtg. This meeting has been moved to 4:00 on Wed. in room 2601. I have sent a 
+47896	Subject: Gas Physical/Financial Position I have scheduled and entered on each of your cal	HOU/ECT@ECT cc: Subject: Gas Physical/Financial Position I have scheduled and entered on each of your calendars a meeting
+48372	Subject: closing Jeff, ? Is the closing today?? After reviewing the agreement?I find it i	llen@enron.com> Subject: closing Jeff, ? Is the closing today?? After reviewing the agreement?I find it isn't binding as 
+55037	Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the	.sanmarcos.net> Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the Westgate proper
+61902	Subject: Contact list for mid market Phillip, Attached is the list. Have your people fill	HOU/ECT@ECT cc: Subject: Contact list for mid market Phillip, Attached is the list. Have your people fill in the columns 
+62376	Subject: Re: 2- SURVEY - PHILLIP ALLEN - Full Name: Phillip Allen Login ID: pallen Extens	HOU/ECT@ECT cc: Subject: Re: 2- SURVEY - PHILLIP ALLEN - Full Name: Phillip Allen Login ID: pallen Extension: 3-7041 Offi
+63895	Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the	.sanmarcos.net> Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the Westgate proper
+69964	Subject: Sagewood Town Homes I was aware that Regan Lehman, the lot developer for the ent	invest@bga.com> Subject: Sagewood Town Homes I was aware that Regan Lehman, the lot developer for the entire 70 lot duple
+71464	Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the	.sanmarcos.net> Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the Westgate proper
+76019	Subject: utilities roll _________________________________________________________________	n@enron.com cc: Subject: utilities roll _________________________________________________________________________ Get You
+76563	Subject: TIME SENSITIVE: Executive Impact & Influence Program Survey Executive Impact & I	n@enron.com cc: Subject: TIME SENSITIVE: Executive Impact & Influence Program Survey Executive Impact & Influence Program
+82579	Subject:=094-URGENT - OWA Please print this now. Current Notes User: REASONS FOR USING O	US= A cc:=09=20 Subject:=094-URGENT - OWA Please print this now. Current Notes User: REASONS FOR USING OUTLOOK WEB ACCES
+85250	Subject: Wow ---------------------- Forwarded by Jeff Richter/HOU/ECT on 09/06/2000 09:45	HOU/ECT@ECT cc: Subject: Wow ---------------------- Forwarded by Jeff Richter/HOU/ECT on 09/06/2000 09:45 AM ------------
+85611	Subject: Wow ---------------------- Forwarded by Tim Belden/HOU/ECT on 09/06/2000 07:27 A	PDX/ECT@ECT cc: Subject: Wow ---------------------- Forwarded by Tim Belden/HOU/ECT on 09/06/2000 07:27 AM --------------
+85982	Subject: Wow Do not underestimate the effects of the Internet economy on load growth. I h	bin/HOU/ECT@ECT Subject: Wow Do not underestimate the effects of the Internet economy on load growth. I have been preachi
+87017	Subject: ---------------------- Forwarded by John D Suarez/HOU/ECT on 09/05/2000 01:46 PM	Enron@Enron cc: Subject: ---------------------- Forwarded by John D Suarez/HOU/ECT on 09/05/2000 01:46 PM ---------------
+87265	Subject: Internet Data Gain Is a Major Power Drain on Local Utilities ( September 05, 200	TIONS@ENRON cc: Subject: Internet Data Gain Is a Major Power Drain on Local Utilities ( September 05, 2000 ) In 1997, a l
+93013	Subject: Re: The commercial support people that you and Hunter want to make commercial ma	HOU/ECT@ECT cc: Subject: Re: The commercial support people that you and Hunter want to make commercial managers."\012Re: res
+93507	Subject: RE: Receipt of Team Selection Form - Executive Impact & Influence Program We hav	owak@enron.com> Subject: RE: Receipt of Team Selection Form - Executive Impact & Influence Program We have not received y
+94117	Subject: Receipt of Team Selection Form - Executive Impact & Influence Program Importance	 Evans (E-mail) Subject: Receipt of Team Selection Form - Executive Impact & Influence Program Importance: High Hi Philli
+95334	Subject: John Lavorato-M Mike Grigsby-D Keith Holst-D Frank Ermis-D Steve South-D Janie T	@fsddatasvc.com Subject: John Lavorato-M Mike Grigsby-D Keith Holst-D Frank Ermis-D Steve South-D Janie Tholt-D Scott Nea
+95695	Subject: Mark, Here is a spreadsheet detailing our September Socal trades. (I did not dis	cepress.com cc: Subject: Mark, Here is a spreadsheet detailing our September Socal trades. (I did not distinguish between
+96042	Subject: FYI -- - Ray Niles on Price Caps.pdf	HOU/ECT@ECT cc: Subject: FYI -- - Ray Niles on Price Caps.pdf\012"Re: Western Ga
+96851	Subject: Receipt of Team Selection Form - Executive Impact & Influence Program Hi Phillip	fsddatasvc.com> Subject: Receipt of Team Selection Form - Executive Impact & Influence Program Hi Phillip. We appreciate 
+98051	Subject: John Lavorato-M Mike Grigsby-D Keith Holst-D Frank Ermis-D Steve South-D Janie T	@fsddatasvc.com Subject: John Lavorato-M Mike Grigsby-D Keith Holst-D Frank Ermis-D Steve South-D Janie Tholt-D Scott Nea
+101871	Subject:=092- SURVEY/INFORMATION EMAIL Current Notes User:=20 To ensure that you experie	US= A cc:=09=20 Subject:=092- SURVEY/INFORMATION EMAIL Current Notes User:=20 To ensure that you experience a successful
+103954	Subject: Mark, Here is a spreadsheet detailing our September Socal trades. (I did not dis	cepress.com cc: Subject: Mark, Here is a spreadsheet detailing our September Socal trades. (I did not distinguish between
+105405	Subject: New Generation Sorry, Report as of August 24, 2000"	len/HOU/ECT@ECT Subject: New Generation Sorry, Report as of August 24, 2000"\012"Mime-Version: 
+110456	Subject: Request from Steve Kean Phillip, I got this request. On the gas side, I think Ke	orp/Enron@ENRON Subject: Request from Steve Kean Phillip, I got this request. On the gas side, I think Kean/Lay need an u
+110941	Subject: Request from Steve Kean Alan, Steve has asked that you update the power point be	/NA/Enron@Enron Subject: Request from Steve Kean Alan, Steve has asked that you update the power point below so that it r
+112354	Subject: Daily Duties Phillip, We have been working on different apartments today and hav	n@enron.com cc: Subject: Daily Duties Phillip, We have been working on different apartments today and having to listen to
+113326	Subject: Daily Report Phillip, The a/c I bought today for #17 cost $166.71 pd by ck#1429 	n@enron.com cc: Subject: Daily Report Phillip, The a/c I bought today for #17 cost $166.71 pd by ck#1429 8/16/00 at WAL-M
+114056	Subject: Daily Report Phillip, Today was one of those days because Wade had to go pay his	n@enron.com cc: Subject: Daily Report Phillip, Today was one of those days because Wade had to go pay his fine and I had 

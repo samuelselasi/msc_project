@@ -1,0 +1,24 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: email
+# Filename: bulk_input.txt
+# Histogram-File-Version: 1.1
+n=190	@enron.com
+n=22	@hotmail.com
+n=16	@austin.rr.com
+n=7	@intelligencepress.com
+n=7	@mail.sanmarcos.net
+n=6	@yahoo.com
+n=5	@austintx.com
+n=5	@fsddatasvc.com
+n=5	@lrinet.com
+n=2	@aol.com
+n=2	@honeywell.com
+n=2	@rssmb.com
+n=2	@thedoghousemail.com
+n=1	@bga.com
+n=1	@freeyellow.com
+n=1	@mh.com
+n=1	@natsource.com
+n=1	@pira.com
+n=1	@sanmarcos.net

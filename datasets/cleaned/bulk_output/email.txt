@@ -1,0 +1,282 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: email
+# Filename: bulk_input.txt
+# Feature-File-Version: 1.1
+38	phillip.allen@enron.com	t_mail/1.\012From: phillip.allen@enron.com\012To: tim.belden@
+66	tim.belden@enron.com	n@enron.com\012To: tim.belden@enron.com\012CC: nan\012Date: M
+315	phillip.allen@enron.com	_mail/10.\012From: phillip.allen@enron.com\012To: john.lavora
+343	john.lavorato@enron.com	n@enron.com\012To: john.lavorato@enron.com\012CC: nan\012Date: F
+1334	phillip.allen@enron.com	mail/100.\012From: phillip.allen@enron.com\012To: leah.arsdal
+1362	leah.arsdall@enron.com	n@enron.com\012To: leah.arsdall@enron.com\012CC: nan\012Date: W
+1615	phillip.allen@enron.com	ail/1000.\012From: phillip.allen@enron.com\012To: randall.gay
+1643	randall.gay@enron.com	n@enron.com\012To: randall.gay@enron.com\012CC: nan\012Date: M
+2055	phillip.allen@enron.com	ail/1001.\012From: phillip.allen@enron.com\012To: greg.piper@
+2083	greg.piper@enron.com	n@enron.com\012To: greg.piper@enron.com\012CC: nan\012Date: T
+2339	phillip.allen@enron.com	ail/1002.\012From: phillip.allen@enron.com\012To: greg.piper@
+2367	greg.piper@enron.com	n@enron.com\012To: greg.piper@enron.com\012CC: nan\012Date: T
+2646	phillip.allen@enron.com	ail/1003.\012From: phillip.allen@enron.com\012To: david.l.joh
+2674	david.l.johnson@enron.com	n@enron.com\012To: david.l.johnson@enron.com, john.shafer@en
+2701	john.shafer@enron.com	nson@enron.com, john.shafer@enron.com\012CC: nan\012Date: T
+2879	pallen@enron.com	 Phillip Allen (pallen@enron.com) Mike Grigsby (
+2911	mike.grigsby@enron.com	) Mike Grigsby (mike.grigsby@enron.com) Keith Holst (k
+2948	kholst@enron.com	m) Keith Holst (kholst@enron.com) Monique Sanche
+3170	phillip.allen@enron.com	ail/1004.\012From: phillip.allen@enron.com\012To: joyce.teixe
+3198	joyce.teixeira@enron.com	n@enron.com\012To: joyce.teixeira@enron.com\012CC: nan\012Date: F
+3475	phillip.allen@enron.com	mail/101.\012From: phillip.allen@enron.com\012To: mark.scott@
+3503	mark.scott@enron.com	n@enron.com\012To: mark.scott@enron.com\012CC: nan\012Date: T
+3944	phillip.allen@enron.com	mail/102.\012From: phillip.allen@enron.com\012To: zimam@enron
+3972	zimam@enron.com	n@enron.com\012To: zimam@enron.com\012CC: nan\012Date: M
+4239	buck.buckner@honeywell.com	Buckner, Buck" <buck.buckner@honeywell.com> on 10/12/2000 
+4299	Pallen@Enron.com	:12:21 PM To: "'Pallen@Enron.com'" <Pallen@Enron
+4319	Pallen@Enron.com	en@Enron.com'" <Pallen@Enron.com> cc: Subject: F
+6315	phillip.allen@enron.com	mail/103.\012From: phillip.allen@enron.com\012To: buck.buckne
+6343	buck.buckner@honeywell.com	n@enron.com\012To: buck.buckner@honeywell.com\012CC: nan\012Date: M
+6824	phillip.allen@enron.com	mail/104.\012From: phillip.allen@enron.com\012To: stagecoachm
+6852	stagecoachmama@hotmail.com	n@enron.com\012To: stagecoachmama@hotmail.com\012CC: nan\012Date: F
+7372	phillip.allen@enron.com	mail/105.\012From: phillip.allen@enron.com\012To: keith.holst
+7400	keith.holst@enron.com	n@enron.com\012To: keith.holst@enron.com\012CC: nan\012Date: M
+13260	phillip.allen@enron.com	mail/106.\012From: phillip.allen@enron.com\012To: keith.holst
+13288	keith.holst@enron.com	n@enron.com\012To: keith.holst@enron.com\012CC: nan\012Date: M
+19148	phillip.allen@enron.com	mail/107.\012From: phillip.allen@enron.com\012To: david.delai
+19176	david.delainey@enron.com	n@enron.com\012To: david.delainey@enron.com\012CC: nan\012Date: T
+19516	phillip.allen@enron.com	mail/108.\012From: phillip.allen@enron.com\012To: paula.harri
+19544	paula.harris@enron.com	n@enron.com\012To: paula.harris@enron.com\012CC: nan\012Date: T
+19811	phillip.allen@enron.com	mail/109.\012From: phillip.allen@enron.com\012To: ina.rangel@
+19839	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: W
+20940	phillip.allen@enron.com	_mail/11.\012From: phillip.allen@enron.com\012To: tim.heizenr
+20968	tim.heizenrader@enron.com	n@enron.com\012To: tim.heizenrader@enron.com\012CC: nan\012Date: F
+21345	phillip.allen@enron.com	mail/110.\012From: phillip.allen@enron.com\012To: pallen70@ho
+21373	pallen70@hotmail.com	n@enron.com\012To: pallen70@hotmail.com\012CC: nan\012Date: T
+21599	cbpres@austin.rr.com	orge Richards" <cbpres@austin.rr.com> on 10/03/2000 
+21666	cbpres@austin.rr.com	ase respond to <cbpres@austin.rr.com> To: "Phillip A
+21709	pallen@enron.com	Phillip Allen" <pallen@enron.com> cc: "Larry Lew
+21747	retwell@mail.sanmarcos.net	"Larry Lewter" <retwell@mail.sanmarcos.net> Subject: Westg
+23294	phillip.allen@enron.com	mail/111.\012From: phillip.allen@enron.com\012To: ina.rangel@
+23322	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: T
+24213	phillip.allen@enron.com	mail/112.\012From: phillip.allen@enron.com\012To: bs_stone@ya
+24241	bs_stone@yahoo.com	n@enron.com\012To: bs_stone@yahoo.com\012CC: nan\012Date: T
+24605	phillip.allen@enron.com	mail/113.\012From: phillip.allen@enron.com\012To: stouchstone
+24633	stouchstone@natsource.com	n@enron.com\012To: stouchstone@natsource.com\012CC: nan\012Date: T
+24931	phillip.allen@enron.com	mail/114.\012From: phillip.allen@enron.com\012To: bs_stone@ya
+24959	bs_stone@yahoo.com	n@enron.com\012To: bs_stone@yahoo.com\012CC: nan\012Date: M
+25338	phillip.allen@enron.com	mail/115.\012From: phillip.allen@enron.com\012To: lkuch@mh.co
+25366	lkuch@mh.com	n@enron.com\012To: lkuch@mh.com\012CC: nan\012Date: T
+27834	phillip.allen@enron.com	mail/116.\012From: phillip.allen@enron.com\012To: jeffrey.hod
+27862	jeffrey.hodge@enron.com	n@enron.com\012To: jeffrey.hodge@enron.com\012CC: nan\012Date: T
+30204	phillip.allen@enron.com	mail/117.\012From: phillip.allen@enron.com\012To: kholst@enro
+30232	kholst@enron.com	n@enron.com\012To: kholst@enron.com\012CC: nan\012Date: T
+30467	cbpres@austin.rr.com	orge Richards" <cbpres@austin.rr.com> on 09/26/2000 
+30534	cbpres@austin.rr.com	ase respond to <cbpres@austin.rr.com> To: "Phillip A
+30577	pallen@enron.com	Phillip Allen" <pallen@enron.com> cc: "Larry Lew
+30615	retwell@mail.sanmarcos.net	"Larry Lewter" <retwell@mail.sanmarcos.net>, "Claudia L. C
+30666	clclegal2@aol.com	ia L. Crocker" <clclegal2@aol.com> Subject: Inves
+38987	phillip.allen@enron.com	mail/118.\012From: phillip.allen@enron.com\012To: pallen70@ho
+39015	pallen70@hotmail.com	n@enron.com\012To: pallen70@hotmail.com\012CC: nan\012Date: T
+39254	cbpres@austin.rr.com	orge Richards" <cbpres@austin.rr.com> on 09/26/2000 
+39321	cbpres@austin.rr.com	ase respond to <cbpres@austin.rr.com> To: "Phillip A
+39364	pallen@enron.com	Phillip Allen" <pallen@enron.com> cc: "Larry Lew
+39402	retwell@mail.sanmarcos.net	"Larry Lewter" <retwell@mail.sanmarcos.net>, "Claudia L. C
+39453	clclegal2@aol.com	ia L. Crocker" <clclegal2@aol.com> Subject: Inves
+47774	phillip.allen@enron.com	mail/119.\012From: phillip.allen@enron.com\012To: ina.rangel@
+47802	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: T
+52996	phillip.allen@enron.com	_mail/12.\012From: phillip.allen@enron.com\012To: rlehmann@ya
+53024	rlehmann@yahoo.com	n@enron.com\012To: rlehmann@yahoo.com\012CC: nan\012Date: T
+53709	phillip.allen@enron.com	mail/120.\012From: phillip.allen@enron.com\012To: cindy.cicch
+53737	cindy.cicchetti@enron.com	n@enron.com\012To: cindy.cicchetti@enron.com\012CC: nan\012Date: T
+54047	phillip.allen@enron.com	mail/121.\012From: phillip.allen@enron.com\012To: ina.rangel@
+54075	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: T
+54921	phillip.allen@enron.com	mail/122.\012From: phillip.allen@enron.com\012To: ina.rangel@
+54949	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: T
+55753	phillip.allen@enron.com	mail/123.\012From: phillip.allen@enron.com\012To: jsmith@aust
+55781	jsmith@austintx.com	n@enron.com\012To: jsmith@austintx.com\012CC: nan\012Date: T
+55999	bs_stone@yahoo.com	--- "BS Stone" <bs_stone@yahoo.com> on 09/26/2000 
+56057	jeff@freeyellow.com	 AM To: "jeff" <jeff@freeyellow.com> cc: "Phillip K
+56101	Phillip.K.Allen@enron.com	illip K Allen" <Phillip.K.Allen@enron.com> Subject: closi
+57777	phillip.allen@enron.com	mail/124.\012From: phillip.allen@enron.com\012To: christopher
+57805	christopher.calger@enron.com	n@enron.com\012To: christopher.calger@enron.com\012CC: nan\012Date: M
+58168	phillip.allen@enron.com	mail/125.\012From: phillip.allen@enron.com\012To: ina.rangel@
+58196	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: M
+59412	phillip.allen@enron.com	mail/126.\012From: phillip.allen@enron.com\012To: ina.rangel@
+59440	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: M
+60234	phillip.allen@enron.com	mail/127.\012From: phillip.allen@enron.com\012To: muller@thed
+60262	muller@thedoghousemail.com	n@enron.com\012To: muller@thedoghousemail.com\012CC: nan\012Date: M
+60565	phillip.allen@enron.com	mail/128.\012From: phillip.allen@enron.com\012To: kathy.moore
+60593	kathy.moore@enron.com	n@enron.com\012To: kathy.moore@enron.com\012CC: nan\012Date: F
+61049	phillip.allen@enron.com	mail/129.\012From: phillip.allen@enron.com\012To: john.lavora
+61077	john.lavorato@enron.com	n@enron.com\012To: john.lavorato@enron.com\012CC: nan\012Date: W
+61565	phillip.allen@enron.com	_mail/13.\012From: phillip.allen@enron.com\012To: james.steff
+61593	james.steffes@enron.com	n@enron.com\012To: james.steffes@enron.com\012CC: nan\012Date: W
+62012	phillip.allen@enron.com	mail/130.\012From: phillip.allen@enron.com\012To: cbpres@aust
+62040	cbpres@austin.rr.com	n@enron.com\012To: cbpres@austin.rr.com\012CC: nan\012Date: W
+64485	phillip.allen@enron.com	mail/131.\012From: phillip.allen@enron.com\012To: pallen70@ho
+64513	pallen70@hotmail.com	n@enron.com\012To: pallen70@hotmail.com\012CC: nan\012Date: T
+64767	cbpres@austin.rr.com	orge Richards" <cbpres@austin.rr.com> on 09/08/2000 
+64834	cbpres@austin.rr.com	ase respond to <cbpres@austin.rr.com> To: "Phillip A
+64877	pallen@enron.com	Phillip Allen" <pallen@enron.com> cc: "Larry Lew
+64915	retwell@mail.sanmarcos.net	"Larry Lewter" <retwell@mail.sanmarcos.net> Subject: Westg
+69393	phillip.allen@enron.com	mail/132.\012From: phillip.allen@enron.com\012To: cbpres@aust
+69421	cbpres@austin.rr.com	n@enron.com\012To: cbpres@austin.rr.com\012CC: nan\012Date: T
+70281	phillip.allen@enron.com	mail/133.\012From: phillip.allen@enron.com\012To: jsmith@aust
+70309	jsmith@austintx.com	n@enron.com\012To: jsmith@austintx.com\012CC: nan\012Date: T
+70575	phillip.allen@enron.com	mail/134.\012From: phillip.allen@enron.com\012To: jsmith@aust
+70603	jsmith@austintx.com	n@enron.com\012To: jsmith@austintx.com\012CC: nan\012Date: M
+71109	phillip.allen@enron.com	mail/135.\012From: phillip.allen@enron.com\012To: stagecoachm
+71137	stagecoachmama@hotmail.com	n@enron.com\012To: stagecoachmama@hotmail.com\012CC: nan\012Date: W
+71556	phillip.allen@enron.com	mail/136.\012From: phillip.allen@enron.com\012To: bs_stone@ya
+71584	bs_stone@yahoo.com	n@enron.com\012To: bs_stone@yahoo.com\012CC: nan\012Date: T
+72262	phillip.allen@enron.com	mail/137.\012From: phillip.allen@enron.com\012To: stagecoachm
+72290	stagecoachmama@hotmail.com	n@enron.com\012To: stagecoachmama@hotmail.com\012CC: nan\012Date: T
+73145	phillip.allen@enron.com	mail/138.\012From: phillip.allen@enron.com\012To: paul.lucci@
+73173	paul.lucci@enron.com	n@enron.com\012To: paul.lucci@enron.com, kenneth.shulkl
+73195	kenneth.shulklapper@enron.com	ucci@enron.com, kenneth.shulklapper@enron.com\012CC: nan\012Date: T
+73820	phillip.allen@enron.com	mail/139.\012From: phillip.allen@enron.com\012To: moshuffle@h
+73848	moshuffle@hotmail.com	n@enron.com\012To: moshuffle@hotmail.com\012CC: nan\012Date: T
+74130	phillip.allen@enron.com	_mail/14.\012From: phillip.allen@enron.com\012To: tori.kuyken
+74158	tori.kuykendall@enron.com	n@enron.com\012To: tori.kuykendall@enron.com\012CC: nan\012Date: W
+75750	phillip.allen@enron.com	mail/140.\012From: phillip.allen@enron.com\012To: keith.holst
+75778	keith.holst@enron.com	n@enron.com\012To: keith.holst@enron.com\012CC: nan\012Date: M
+76033	cbpres@austin.rr.com	orge Richards" <cbpres@austin.rr.com> on 09/08/2000 
+76100	cbpres@austin.rr.com	ase respond to <cbpres@austin.rr.com> To: "Phillip A
+76143	pallen@enron.com	Phillip Allen" <pallen@enron.com> cc: "Larry Lew
+76181	retwell@mail.sanmarcos.net	"Larry Lewter" <retwell@mail.sanmarcos.net> Subject: Westg
+80659	phillip.allen@enron.com	mail/141.\012From: phillip.allen@enron.com\012To: jsmith@aust
+80687	jsmith@austintx.com	n@enron.com\012To: jsmith@austintx.com\012CC: nan\012Date: M
+81303	phillip.allen@enron.com	mail/142.\012From: phillip.allen@enron.com\012To: john.lavora
+81331	john.lavorato@enron.com	n@enron.com\012To: john.lavorato@enron.com\012CC: nan\012Date: M
+81894	phillip.allen@enron.com	mail/143.\012From: phillip.allen@enron.com\012To: frank.hayde
+81922	frank.hayden@enron.com	n@enron.com\012To: frank.hayden@enron.com\012CC: nan\012Date: M
+82273	phillip.allen@enron.com	mail/144.\012From: phillip.allen@enron.com\012To: jsmith@aust
+82301	jsmith@austintx.com	n@enron.com\012To: jsmith@austintx.com\012CC: nan\012Date: M
+82983	phillip.allen@enron.com	mail/145.\012From: phillip.allen@enron.com\012To: pallen70@ho
+83011	pallen70@hotmail.com	n@enron.com\012To: pallen70@hotmail.com\012CC: nan\012Date: F
+83248	cbpres@austin.rr.com	orge Richards" <cbpres@austin.rr.com> on 09/08/2000 
+83315	cbpres@austin.rr.com	ase respond to <cbpres@austin.rr.com> To: "Phillip A
+83358	pallen@enron.com	Phillip Allen" <pallen@enron.com> cc: "Larry Lew
+83396	retwell@mail.sanmarcos.net	"Larry Lewter" <retwell@mail.sanmarcos.net>, "Diana Zuniga
+83441	invest@bga.com	"Diana Zuniga" <invest@bga.com> Subject: Sagew
+84730	phillip.allen@enron.com	mail/146.\012From: phillip.allen@enron.com\012To: pallen70@ho
+84758	pallen70@hotmail.com	n@enron.com\012To: pallen70@hotmail.com\012CC: nan\012Date: F
+85011	cbpres@austin.rr.com	orge Richards" <cbpres@austin.rr.com> on 09/08/2000 
+85078	cbpres@austin.rr.com	ase respond to <cbpres@austin.rr.com> To: "Phillip A
+85121	pallen@enron.com	Phillip Allen" <pallen@enron.com> cc: "Larry Lew
+85159	retwell@mail.sanmarcos.net	"Larry Lewter" <retwell@mail.sanmarcos.net> Subject: Westg
+89637	phillip.allen@enron.com	mail/147.\012From: phillip.allen@enron.com\012To: pallen70@ho
+89665	pallen70@hotmail.com	n@enron.com\012To: pallen70@hotmail.com\012CC: nan\012Date: W
+89895	stagecoachmama@hotmail.com	Lucy Gonzalez" <stagecoachmama@hotmail.com> on 09/06/2000 
+89953	pallen@enron.com	09:06:45 AM To: pallen@enron.com cc: Subject: ut
+90390	phillip.allen@enron.com	mail/148.\012From: phillip.allen@enron.com\012To: ina.rangel@
+90418	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: W
+90676	Enron-admin@FSDDataSvc.com	--------------- Enron-admin@FSDDataSvc.com on 09/06/2000 1
+90733	pallen@enron.com	10:12:33 AM To: pallen@enron.com cc: Subject: TI
+92537	phillip.allen@enron.com	mail/149.\012From: phillip.allen@enron.com\012To: retwell@san
+92565	retwell@sanmarcos.net	n@enron.com\012To: retwell@sanmarcos.net\012CC: nan\012Date: W
+93452	phillip.allen@enron.com	_mail/15.\012From: phillip.allen@enron.com\012To: ina.rangel@
+93480	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: T
+99511	09Outlook.2000@enron.com	er Mailbox at: =09Outlook.2000@enron.com Otherwise, you 
+99767	phillip.allen@enron.com	mail/150.\012From: phillip.allen@enron.com\012To: ina.rangel@
+99795	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: W
+100082	phillip.allen@enron.com	mail/151.\012From: phillip.allen@enron.com\012To: thomas.mart
+100110	thomas.martin@enron.com	n@enron.com\012To: thomas.martin@enron.com, mike.grigsby@e
+100135	mike.grigsby@enron.com	rtin@enron.com, mike.grigsby@enron.com, keith.holst@en
+100159	keith.holst@enron.com	gsby@enron.com, keith.holst@enron.com,\012CC: nan\012Date: 
+108012	phillip.allen@enron.com	mail/152.\012From: phillip.allen@enron.com\012To: ina.rangel@
+108040	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: W
+108635	phillip.allen@enron.com	mail/153.\012From: phillip.allen@enron.com\012To: john.lavora
+108663	john.lavorato@enron.com	n@enron.com\012To: john.lavorato@enron.com\012CC: nan\012Date: T
+108897	phillip.allen@enron.com	mail/154.\012From: phillip.allen@enron.com\012To: ina.rangel@
+108925	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: T
+109206	christi.smith@lrinet.com	Christi Smith" <christi.smith@lrinet.com> on 09/05/2000 
+109277	christi.smith@lrinet.com	ase respond to <christi.smith@lrinet.com> To: <Phillip.K
+109308	Phillip.K.Allen@enron.com	rinet.com> To: <Phillip.K.Allen@enron.com> cc: "Debbie No
+109364	dnowak@enron.com	owak (E-mail)" <dnowak@enron.com> Subject: RE: R
+109843	christi.smith@lrinet.com	i Smith [mailto:christi.smith@lrinet.com] Sent: Thursday
+109915	Phillip.K.Allen@enron.com	0 10:33 AM To: 'Phillip.K.Allen@enron.com' Cc: Debbie Now
+111117	Phillip.K.Allen@enron.com	K Allen [mailto:Phillip.K.Allen@enron.com] Sent: Thursday
+111189	debe@fsddatasvc.com	00 12:03 PM To: debe@fsddatasvc.com Subject: John L
+111485	phillip.allen@enron.com	mail/155.\012From: phillip.allen@enron.com\012To: dexter@inte
+111513	dexter@intelligencepress.com	n@enron.com\012To: dexter@intelligencepress.com\012CC: nan\012Date: T
+111783	mark@intelligencepress.com	00 02:20 PM To: mark@intelligencepress.com cc: Subject: Ma
+112068	phillip.allen@enron.com	mail/156.\012From: phillip.allen@enron.com\012To: mike.grigsb
+112096	mike.grigsby@enron.com	n@enron.com\012To: mike.grigsby@enron.com, frank.ermis@en
+112120	frank.ermis@enron.com	gsby@enron.com, frank.ermis@enron.com\012CC: nan\012Date: F
+112592	phillip.allen@enron.com	mail/157.\012From: phillip.allen@enron.com\012To: rich@pira.c
+112620	rich@pira.com	n@enron.com\012To: rich@pira.com\012CC: nan\012Date: T
+113032	phillip.allen@enron.com	mail/158.\012From: phillip.allen@enron.com\012To: cooper.rich
+113060	cooper.richey@enron.com	n@enron.com\012To: cooper.richey@enron.com\012CC: nan\012Date: T
+113404	phillip.allen@enron.com	mail/159.\012From: phillip.allen@enron.com\012To: ina.rangel@
+113432	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: T
+113710	christi.smith@lrinet.com	Christi Smith" <christi.smith@lrinet.com> on 08/31/2000 
+113781	christi.smith@lrinet.com	ase respond to <christi.smith@lrinet.com> To: <Phillip.K
+113812	Phillip.K.Allen@enron.com	rinet.com> To: <Phillip.K.Allen@enron.com> cc: "Debbie No
+113868	dnowak@enron.com	owak (E-mail)" <dnowak@enron.com>, "Deborah Evan
+113913	debe@fsddatasvc.com	vans (E-mail)" <debe@fsddatasvc.com> Subject: Recei
+115042	Phillip.K.Allen@enron.com	K Allen [mailto:Phillip.K.Allen@enron.com] Sent: Thursday
+115114	debe@fsddatasvc.com	00 12:03 PM To: debe@fsddatasvc.com Subject: John L
+115409	phillip.allen@enron.com	_mail/16.\012From: phillip.allen@enron.com\012To: ina.rangel@
+115437	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: T
+121025	phillip.allen@enron.com	mail/160.\012From: phillip.allen@enron.com\012To: debe@fsddat
+121053	debe@fsddatasvc.com	n@enron.com\012To: debe@fsddatasvc.com\012CC: nan\012Date: T
+121425	phillip.allen@enron.com	mail/161.\012From: phillip.allen@enron.com\012To: kolinge@enr
+121453	kolinge@enron.com	n@enron.com\012To: kolinge@enron.com\012CC: nan\012Date: T
+121713	mark@intelligencepress.com	00 02:20 PM To: mark@intelligencepress.com cc: Subject: Ma
+121998	phillip.allen@enron.com	mail/162.\012From: phillip.allen@enron.com\012To: muller@thed
+122026	muller@thedoghousemail.com	n@enron.com\012To: muller@thedoghousemail.com\012CC: nan\012Date: W
+122453	phillip.allen@enron.com	mail/163.\012From: phillip.allen@enron.com\012To: cindy.long@
+122481	cindy.long@enron.com	n@enron.com\012To: cindy.long@enron.com\012CC: nan\012Date: W
+122778	phillip.allen@enron.com	mail/164.\012From: phillip.allen@enron.com\012To: mark@intell
+122806	mark@intelligencepress.com	n@enron.com\012To: mark@intelligencepress.com\012CC: nan\012Date: T
+123163	phillip.allen@enron.com	mail/165.\012From: phillip.allen@enron.com\012To: mark@intell
+123191	mark@intelligencepress.com	n@enron.com\012To: mark@intelligencepress.com\012CC: nan\012Date: T
+123579	phillip.allen@enron.com	mail/166.\012From: phillip.allen@enron.com\012To: bs_stone@ya
+123607	bs_stone@yahoo.com	n@enron.com\012To: bs_stone@yahoo.com\012CC: nan\012Date: M
+123898	phillip.allen@enron.com	mail/167.\012From: phillip.allen@enron.com\012To: matthew.len
+123926	matthew.lenhart@enron.com	n@enron.com\012To: matthew.lenhart@enron.com, mike.grigsby@e
+123953	mike.grigsby@enron.com	hart@enron.com, mike.grigsby@enron.com, keith.holst@en
+123977	keith.holst@enron.com	gsby@enron.com, keith.holst@enron.com,\012CC: nan\012Date: 
+124873	phillip.allen@enron.com	mail/168.\012From: phillip.allen@enron.com\012To: mark@intell
+124901	mark@intelligencepress.com	n@enron.com\012To: mark@intelligencepress.com\012CC: nan\012Date: M
+126086	phillip.allen@enron.com	mail/169.\012From: phillip.allen@enron.com\012To: mark@intell
+126114	mark@intelligencepress.com	n@enron.com\012To: mark@intelligencepress.com\012CC: nan\012Date: M
+127285	phillip.allen@enron.com	_mail/17.\012From: phillip.allen@enron.com\012To: alan.comnes
+127313	alan.comnes@enron.com	n@enron.com\012To: alan.comnes@enron.com\012CC: nan\012Date: M
+127663	phillip.allen@enron.com	mail/170.\012From: phillip.allen@enron.com\012To: suzanne.nic
+127691	suzanne.nicholie@enron.com	n@enron.com\012To: suzanne.nicholie@enron.com\012CC: nan\012Date: F
+128132	phillip.allen@enron.com	mail/171.\012From: phillip.allen@enron.com\012To: colleen.sul
+128160	colleen.sullivan@enron.com	n@enron.com\012To: colleen.sullivan@enron.com\012CC: nan\012Date: F
+128532	phillip.allen@enron.com	mail/172.\012From: phillip.allen@enron.com\012To: brad.mcsher
+128560	brad.mcsherry@enron.com	n@enron.com\012To: brad.mcsherry@enron.com\012CC: john.lavora
+128588	john.lavorato@enron.com	y@enron.com\012CC: john.lavorato@enron.com, hunter.shively
+128613	hunter.shively@enron.com	rato@enron.com, hunter.shively@enron.com\012Date: Fri, 25 A
+129377	phillip.allen@enron.com	mail/173.\012From: phillip.allen@enron.com\012To: bruce.ferre
+129405	bruce.ferrell@enron.com	n@enron.com\012To: bruce.ferrell@enron.com\012CC: nan\012Date: F
+129716	phillip.allen@enron.com	mail/174.\012From: phillip.allen@enron.com\012To: stagecoachm
+129744	stagecoachmama@hotmail.com	n@enron.com\012To: stagecoachmama@hotmail.com\012CC: nan\012Date: F
+130641	phillip.allen@enron.com	mail/175.\012From: phillip.allen@enron.com\012To: stagecoachm
+130669	stagecoachmama@hotmail.com	n@enron.com\012To: stagecoachmama@hotmail.com\012CC: nan\012Date: T
+130994	phillip.allen@enron.com	mail/176.\012From: phillip.allen@enron.com\012To: ina.rangel@
+131022	ina.rangel@enron.com	n@enron.com\012To: ina.rangel@enron.com\012CC: nan\012Date: W
+131301	phillip.allen@enron.com	mail/177.\012From: phillip.allen@enron.com\012To: stagecoachm
+131329	stagecoachmama@hotmail.com	n@enron.com\012To: stagecoachmama@hotmail.com\012CC: nan\012Date: W
+131804	phillip.allen@enron.com	mail/178.\012From: phillip.allen@enron.com\012To: stagecoachm
+131832	stagecoachmama@hotmail.com	n@enron.com\012To: stagecoachmama@hotmail.com\012CC: nan\012Date: W
+132176	phillip.allen@enron.com	mail/179.\012From: phillip.allen@enron.com\012To: stagecoachm
+132204	stagecoachmama@hotmail.com	n@enron.com\012To: stagecoachmama@hotmail.com\012CC: nan\012Date: T
+132810	phillip.allen@enron.com	_mail/18.\012From: phillip.allen@enron.com\012To: keith.holst
+132838	keith.holst@enron.com	n@enron.com\012To: keith.holst@enron.com\012CC: nan\012Date: M
+134182	phillip.allen@enron.com	mail/180.\012From: phillip.allen@enron.com\012To: mac.d.hargr
+134210	mac.d.hargrove@rssmb.com	n@enron.com\012To: mac.d.hargrove@rssmb.com\012CC: nan\012Date: M
+135193	phillip.allen@enron.com	mail/181.\012From: phillip.allen@enron.com\012To: pallen70@ho
+135221	pallen70@hotmail.com	n@enron.com\012To: pallen70@hotmail.com\012CC: nan\012Date: S
+135450	stagecoachmama@hotmail.com	Lucy Gonzalez" <stagecoachmama@hotmail.com> on 08/15/2000 
+135508	pallen@enron.com	02:32:57 PM To: pallen@enron.com cc: Subject: Da
+136400	phillip.allen@enron.com	mail/182.\012From: phillip.allen@enron.com\012To: pallen70@ho
+136428	pallen70@hotmail.com	n@enron.com\012To: pallen70@hotmail.com\012CC: nan\012Date: S
+136657	stagecoachmama@hotmail.com	Lucy Gonzalez" <stagecoachmama@hotmail.com> on 08/16/2000 
+136715	pallen@enron.com	02:44:36 PM To: pallen@enron.com cc: Subject: Da
+137365	phillip.allen@enron.com	mail/183.\012From: phillip.allen@enron.com\012To: pallen70@ho
+137393	pallen70@hotmail.com	n@enron.com\012To: pallen70@hotmail.com\012CC: nan\012Date: S
+137622	stagecoachmama@hotmail.com	Lucy Gonzalez" <stagecoachmama@hotmail.com> on 08/17/2000 
+137680	pallen@enron.com	02:37:55 PM To: pallen@enron.com cc: Subject: Da
+138337	phillip.allen@enron.com	mail/184.\012From: phillip.allen@enron.com\012To: mac.d.hargr
+138365	mac.d.hargrove@rssmb.com	n@enron.com\012To: mac.d.hargrove@rssmb.com\012CC: nan\012Date: T

@@ -1,0 +1,17 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: email
+# Filename: cleaned_split-1.txt
+# Histogram-File-Version: 1.1
+n=28	@enron.com
+n=14	@austin.rr.com
+n=7	@mail.sanmarcos.net
+n=5	@lrinet.com
+n=4	@fsddatasvc.com
+n=4	@hotmail.com
+n=2	@aol.com
+n=2	@intelligencepress.com
+n=1	@bga.com
+n=1	@freeyellow.com
+n=1	@honeywell.com
+n=1	@yahoo.com

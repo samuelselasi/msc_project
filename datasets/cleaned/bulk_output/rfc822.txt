@@ -1,0 +1,248 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: rfc822
+# Filename: bulk_input.txt
+# Feature-File-Version: 1.1
+101	Mon, 14 May 2001 16:39:00 -0700	m\012CC: nan\012Date: Mon, 14 May 2001 16:39:00 -0700 (PDT)\012Subject: 
+139	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Here is o
+381	Fri, 4 May 2001 13:51:00 -0700	m\012CC: nan\012Date: Fri, 4 May 2001 13:51:00 -0700 (PDT)\012Subject: 
+418	Subject: Re:	:00 -0700 (PDT)\012Subject: Re:\012Body: Traveling
+1399	Wed, 18 Oct 2000 03:00:00 -0700	m\012CC: nan\012Date: Wed, 18 Oct 2000 03:00:00 -0700 (PDT)\012Subject: 
+1437	Subject: Re: test	:00 -0700 (PDT)\012Subject: Re: test\012Body: test succ
+1679	Mon, 23 Oct 2000 06:13:00 -0700	m\012CC: nan\012Date: Mon, 23 Oct 2000 06:13:00 -0700 (PDT)\012Subject: 
+1717	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Randy, Ca
+2118	Thu, 31 Aug 2000 05:07:00 -0700	m\012CC: nan\012Date: Thu, 31 Aug 2000 05:07:00 -0700 (PDT)\012Subject: 
+2156	Subject: Re: Hello	:00 -0700 (PDT)\012Subject: Re: Hello\012Body: Let's sho
+2402	Thu, 31 Aug 2000 04:17:00 -0700	m\012CC: nan\012Date: Thu, 31 Aug 2000 04:17:00 -0700 (PDT)\012Subject: 
+2440	Subject: Re: Hello	:00 -0700 (PDT)\012Subject: Re: Hello\012Body: Greg, How
+2737	Tue, 22 Aug 2000 07:44:00 -0700	m\012CC: nan\012Date: Tue, 22 Aug 2000 07:44:00 -0700 (PDT)\012Subject: 
+2775	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Please cc
+3237	Fri, 14 Jul 2000 06:59:00 -0700	m\012CC: nan\012Date: Fri, 14 Jul 2000 06:59:00 -0700 (PDT)\012Subject: 
+3275	Subject: Re: PRC review - phone calls	:00 -0700 (PDT)\012Subject: Re: PRC review - phone calls\012Body: any morni
+3538	Tue, 17 Oct 2000 02:26:00 -0700	m\012CC: nan\012Date: Tue, 17 Oct 2000 02:26:00 -0700 (PDT)\012Subject: 
+3576	Subject: Re: High Speed Internet Access	:00 -0700 (PDT)\012Subject: Re: High Speed Internet Access\012Body: 1. login:
+4002	Mon, 16 Oct 2000 06:44:00 -0700	m\012CC: nan\012Date: Mon, 16 Oct 2000 06:44:00 -0700 (PDT)\012Subject: 
+4040	Subject: FW: fixed forward or other Collar floor gas price terms	:00 -0700 (PDT)\012Subject: FW: fixed forward or other Collar floor gas price terms\012Body: ---------
+4341	Subject: FW: fixed forward or other Collar floor gas price terms Phillip, > As discussed 	@Enron.com> cc: Subject: FW: fixed forward or other Collar floor gas price terms Phillip, > As discussed during our phone
+6384	Mon, 16 Oct 2000 06:42:00 -0700	m\012CC: nan\012Date: Mon, 16 Oct 2000 06:42:00 -0700 (PDT)\012Subject: 
+6422	Subject: Re: FW: fixed forward or other Collar floor gas price terms	:00 -0700 (PDT)\012Subject: Re: FW: fixed forward or other Collar floor gas price terms\012Body: Mr. Buckn
+6893	Fri, 13 Oct 2000 06:45:00 -0700	m\012CC: nan\012Date: Fri, 13 Oct 2000 06:45:00 -0700 (PDT)\012Subject: 
+6931	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Lucy, Her
+7436	Mon, 9 Oct 2000 07:16:00 -0700	m\012CC: nan\012Date: Mon, 9 Oct 2000 07:16:00 -0700 (PDT)\012Subject: 
+7473	Subject: Consolidated positions: Issues & To Do list	:00 -0700 (PDT)\012Subject: Consolidated positions: Issues & To Do list\012Body: ---------
+7743	Subject: Consolidated positions: Issues & To Do list Phillip, Below is the issues & to do	man/HOU/ECT@ECT Subject: Consolidated positions: Issues & To Do list Phillip, Below is the issues & to do list as we go f
+9649	Subject: Consolidated positions: Issues & To Do list From our initial set of meetings wit	 Ha/HOU/ECT@ECT Subject: Consolidated positions: Issues & To Do list From our initial set of meetings with the traders re
+13324	Mon, 9 Oct 2000 07:00:00 -0700	m\012CC: nan\012Date: Mon, 9 Oct 2000 07:00:00 -0700 (PDT)\012Subject: 
+13361	Subject: Consolidated positions: Issues & To Do list	:00 -0700 (PDT)\012Subject: Consolidated positions: Issues & To Do list\012Body: ---------
+13631	Subject: Consolidated positions: Issues & To Do list Phillip, Below is the issues & to do	man/HOU/ECT@ECT Subject: Consolidated positions: Issues & To Do list Phillip, Below is the issues & to do list as we go f
+15537	Subject: Consolidated positions: Issues & To Do list From our initial set of meetings wit	 Ha/HOU/ECT@ECT Subject: Consolidated positions: Issues & To Do list From our initial set of meetings with the traders re
+19215	Thu, 5 Oct 2000 06:26:00 -0700	m\012CC: nan\012Date: Thu, 5 Oct 2000 06:26:00 -0700 (PDT)\012Subject: 
+19252	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Dave, Her
+19581	Thu, 5 Oct 2000 05:55:00 -0700	m\012CC: nan\012Date: Thu, 5 Oct 2000 05:55:00 -0700 (PDT)\012Subject: 
+19618	Subject: Re: 2001 Margin Plan	:00 -0700 (PDT)\012Subject: Re: 2001 Margin Plan\012Body: Paula, 35
+19874	Wed, 4 Oct 2000 09:23:00 -0700	m\012CC: nan\012Date: Wed, 4 Oct 2000 09:23:00 -0700 (PDT)\012Subject: 
+19911	Subject: Var, Reporting and Resources Meeting	:00 -0700 (PDT)\012Subject: Var, Reporting and Resources Meeting\012Body: ---------
+20535	Subject: Var, Reporting and Resources Meeting Please plan to attend the below Meeting: To	lis/HOU/ECT@ect Subject: Var, Reporting and Resources Meeting Please plan to attend the below Meeting: Topic: Var, Report
+21008	Fri, 4 May 2001 11:26:00 -0700	m\012CC: nan\012Date: Fri, 4 May 2001 11:26:00 -0700 (PDT)\012Subject: 
+21045	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Tim, mike
+21408	Tue, 3 Oct 2000 09:30:00 -0700	m\012CC: nan\012Date: Tue, 3 Oct 2000 09:30:00 -0700 (PDT)\012Subject: 
+21445	Subject: Westgate	:00 -0700 (PDT)\012Subject: Westgate\012Body: ---------
+21775	Subject: Westgate Westgate Enclosed are demographics on the Westgate site from Investor's	.sanmarcos.net> Subject: Westgate Westgate Enclosed are demographics on the Westgate site from Investor's Alliance. Inves
+23357	Tue, 3 Oct 2000 09:15:00 -0700	m\012CC: nan\012Date: Tue, 3 Oct 2000 09:15:00 -0700 (PDT)\012Subject: 
+23394	Subject: Meeting re: Storage Strategies in the West	:00 -0700 (PDT)\012Subject: Meeting re: Storage Strategies in the West\012Body: ---------
+23840	Subject: Meeting re: Storage Strategies in the West There will be a meeting on Tuesday, O	orp/Enron@ENRON Subject: Meeting re: Storage Strategies in the West There will be a meeting on Tuesday, Oct. 10th at 4:00
+24274	Tue, 3 Oct 2000 09:13:00 -0700	m\012CC: nan\012Date: Tue, 3 Oct 2000 09:13:00 -0700 (PDT)\012Subject: 
+24311	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Brenda, P
+24673	Tue, 3 Oct 2000 03:17:00 -0700	m\012CC: nan\012Date: Tue, 3 Oct 2000 03:17:00 -0700 (PDT)\012Subject: 
+24710	Subject: Re: Not business related..	:00 -0700 (PDT)\012Subject: Re: Not business related..\012Body: I think F
+24992	Mon, 2 Oct 2000 02:19:00 -0700	m\012CC: nan\012Date: Mon, 2 Oct 2000 02:19:00 -0700 (PDT)\012Subject: 
+25029	Subject: Re: Original Sept check/closing	:00 -0700 (PDT)\012Subject: Re: Original Sept check/closing\012Body: Brenda, P
+25393	Thu, 28 Sep 2000 06:17:00 -0700	m\012CC: nan\012Date: Thu, 28 Sep 2000 06:17:00 -0700 (PDT)\012Subject: 
+25431	Subject: San Juan Index	:00 -0700 (PDT)\012Subject: San Juan Index\012Body: ---------
+27900	Thu, 28 Sep 2000 05:56:00 -0700	m\012CC: nan\012Date: Thu, 28 Sep 2000 05:56:00 -0700 (PDT)\012Subject: 
+27938	Subject: San Juan Index	:00 -0700 (PDT)\012Subject: San Juan Index\012Body: Liane, As
+30263	Tue, 26 Sep 2000 09:28:00 -0700	m\012CC: nan\012Date: Tue, 26 Sep 2000 09:28:00 -0700 (PDT)\012Subject: 
+30301	Subject: Investment Structure	:00 -0700 (PDT)\012Subject: Investment Structure\012Body: ---------
+30685	Subject: Investment Structure STRUCTURE: Typically the structure is a limited partnership	legal2@aol.com> Subject: Investment Structure STRUCTURE: Typically the structure is a limited partnership with a corporat
+39050	Tue, 26 Sep 2000 09:26:00 -0700	m\012CC: nan\012Date: Tue, 26 Sep 2000 09:26:00 -0700 (PDT)\012Subject: 
+39088	Subject: Investment Structure	:00 -0700 (PDT)\012Subject: Investment Structure\012Body: ---------
+39472	Subject: Investment Structure STRUCTURE: Typically the structure is a limited partnership	legal2@aol.com> Subject: Investment Structure STRUCTURE: Typically the structure is a limited partnership with a corporat
+47837	Tue, 26 Sep 2000 07:01:00 -0700	m\012CC: nan\012Date: Tue, 26 Sep 2000 07:01:00 -0700 (PDT)\012Subject: 
+47875	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: ---------
+52608	Subject: Gas Trading Vision mtg. This meeting has been moved to 4:00 on Wed. in room 2601	HOU/ECT@ECT cc: Subject: Gas Trading Vision mtg. This meeting has been moved to 4:00 on Wed. in room 2601. I have sent a 
+53057	Thu, 3 May 2001 15:57:00 -0700	m\012CC: nan\012Date: Thu, 3 May 2001 15:57:00 -0700 (PDT)\012Subject: 
+53094	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Reagan, J
+53777	Tue, 26 Sep 2000 05:11:00 -0700	m\012CC: nan\012Date: Tue, 26 Sep 2000 05:11:00 -0700 (PDT)\012Subject: 
+53815	Subject: Re: Gas Trading Vision meeting	:00 -0700 (PDT)\012Subject: Re: Gas Trading Vision meeting\012Body: Nymex exp
+54110	Tue, 26 Sep 2000 05:08:00 -0700	m\012CC: nan\012Date: Tue, 26 Sep 2000 05:08:00 -0700 (PDT)\012Subject: 
+54148	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: ---------
+54984	Tue, 26 Sep 2000 05:07:00 -0700	m\012CC: nan\012Date: Tue, 26 Sep 2000 05:07:00 -0700 (PDT)\012Subject: 
+55022	Subject: Gas Physical/Financial Position	:00 -0700 (PDT)\012Subject: Gas Physical/Financial Position\012Body: ---------
+55422	Subject: Gas Physical/Financial Position I have scheduled and entered on each of your cal	HOU/ECT@ECT cc: Subject: Gas Physical/Financial Position I have scheduled and entered on each of your calendars a meeting
+55815	Tue, 26 Sep 2000 04:57:00 -0700	m\012CC: nan\012Date: Tue, 26 Sep 2000 04:57:00 -0700 (PDT)\012Subject: 
+55853	Subject: closing	:00 -0700 (PDT)\012Subject: closing\012Body: ---------
+56128	Subject: closing Jeff, ? Is the closing today?? After reviewing the agreement?I find it i	llen@enron.com> Subject: closing Jeff, ? Is the closing today?? After reviewing the agreement?I find it isn't binding as 
+57848	Mon, 25 Sep 2000 07:04:00 -0700	m\012CC: nan\012Date: Mon, 25 Sep 2000 07:04:00 -0700 (PDT)\012Subject: 
+57886	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Chris, Wh
+58231	Mon, 25 Sep 2000 07:01:00 -0700	m\012CC: nan\012Date: Mon, 25 Sep 2000 07:01:00 -0700 (PDT)\012Subject: 
+58269	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: ---------
+59475	Mon, 25 Sep 2000 07:01:00 -0700	m\012CC: nan\012Date: Mon, 25 Sep 2000 07:01:00 -0700 (PDT)\012Subject: 
+59513	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: ---------
+60303	Mon, 25 Sep 2000 05:47:00 -0700	m\012CC: nan\012Date: Mon, 25 Sep 2000 05:47:00 -0700 (PDT)\012Subject: 
+60341	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Greg, Hap
+60629	Fri, 22 Sep 2000 00:06:00 -0700	m\012CC: nan\012Date: Fri, 22 Sep 2000 00:06:00 -0700 (PDT)\012Subject: 
+60667	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Kathy, Re
+61115	Wed, 20 Sep 2000 08:06:00 -0700	m\012CC: nan\012Date: Wed, 20 Sep 2000 08:06:00 -0700 (PDT)\012Subject: 
+61153	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: John, Den
+61631	Wed, 2 May 2001 12:36:00 -0700	m\012CC: nan\012Date: Wed, 2 May 2001 12:36:00 -0700 (PDT)\012Subject: 
+61668	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Jim, Is t
+62075	Wed, 20 Sep 2000 06:34:00 -0700	m\012CC: nan\012Date: Wed, 20 Sep 2000 06:34:00 -0700 (PDT)\012Subject: 
+62113	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: George, B
+64548	Tue, 19 Sep 2000 09:35:00 -0700	m\012CC: nan\012Date: Tue, 19 Sep 2000 09:35:00 -0700 (PDT)\012Subject: 
+64586	Subject: Westgate Proforma-Phillip Allen.xls	:00 -0700 (PDT)\012Subject: Westgate Proforma-Phillip Allen.xls\012Body: ---------
+64943	Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the	.sanmarcos.net> Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the Westgate proper
+69456	Tue, 19 Sep 2000 07:26:00 -0700	m\012CC: nan\012Date: Tue, 19 Sep 2000 07:26:00 -0700 (PDT)\012Subject: 
+69494	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: George, H
+70343	Tue, 19 Sep 2000 03:15:00 -0700	m\012CC: nan\012Date: Tue, 19 Sep 2000 03:15:00 -0700 (PDT)\012Subject: 
+70381	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Jeff, Wha
+70637	Mon, 18 Sep 2000 02:34:00 -0700	m\012CC: nan\012Date: Mon, 18 Sep 2000 02:34:00 -0700 (PDT)\012Subject: 
+70675	Subject: Re: burnet	:00 -0700 (PDT)\012Subject: Re: burnet\012Body: Jeff, I n
+71178	Wed, 13 Sep 2000 06:02:00 -0700	m\012CC: nan\012Date: Wed, 13 Sep 2000 06:02:00 -0700 (PDT)\012Subject: 
+71216	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Lucy, I w
+71617	Tue, 12 Sep 2000 06:42:00 -0700	m\012CC: nan\012Date: Tue, 12 Sep 2000 06:42:00 -0700 (PDT)\012Subject: 
+71655	Subject: Re: Sept 1 Payment	:00 -0700 (PDT)\012Subject: Re: Sept 1 Payment\012Body: Brenda, I
+72331	Tue, 12 Sep 2000 06:06:00 -0700	m\012CC: nan\012Date: Tue, 12 Sep 2000 06:06:00 -0700 (PDT)\012Subject: 
+72369	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Lucy, You
+73239	Tue, 12 Sep 2000 04:23:00 -0700	m\012CC: nan\012Date: Tue, 12 Sep 2000 04:23:00 -0700 (PDT)\012Subject: 
+73277	Subject: Contact list for mid market	:00 -0700 (PDT)\012Subject: Contact list for mid market\012Body: ---------
+73504	Subject: Contact list for mid market Phillip, Attached is the list. Have your people fill	HOU/ECT@ECT cc: Subject: Contact list for mid market Phillip, Attached is the list. Have your people fill in the columns 
+73884	Tue, 12 Sep 2000 00:27:00 -0700	m\012CC: nan\012Date: Tue, 12 Sep 2000 00:27:00 -0700 (PDT)\012Subject: 
+73922	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: http://ww
+74198	Wed, 2 May 2001 10:27:00 -0700	m\012CC: nan\012Date: Wed, 2 May 2001 10:27:00 -0700 (PDT)\012Subject: 
+74235	Subject: Re: 2- SURVEY - PHILLIP ALLEN	:00 -0700 (PDT)\012Subject: Re: 2- SURVEY - PHILLIP ALLEN\012Body: ---------
+74458	Subject: Re: 2- SURVEY - PHILLIP ALLEN - Full Name: Phillip Allen Login ID: pallen Extens	HOU/ECT@ECT cc: Subject: Re: 2- SURVEY - PHILLIP ALLEN - Full Name: Phillip Allen Login ID: pallen Extension: 3-7041 Offi
+75814	Mon, 11 Sep 2000 09:57:00 -0700	m\012CC: nan\012Date: Mon, 11 Sep 2000 09:57:00 -0700 (PDT)\012Subject: 
+75852	Subject: Westgate Proforma-Phillip Allen.xls	:00 -0700 (PDT)\012Subject: Westgate Proforma-Phillip Allen.xls\012Body: ---------
+76209	Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the	.sanmarcos.net> Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the Westgate proper
+80721	Mon, 11 Sep 2000 09:30:00 -0700	m\012CC: nan\012Date: Mon, 11 Sep 2000 09:30:00 -0700 (PDT)\012Subject: 
+80759	Subject: Re: Chelsea Villas	:00 -0700 (PDT)\012Subject: Re: Chelsea Villas\012Body: Jeff, I r
+81369	Mon, 11 Sep 2000 08:07:00 -0700	m\012CC: nan\012Date: Mon, 11 Sep 2000 08:07:00 -0700 (PDT)\012Subject: 
+81407	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: 9/8 9/7 d
+81959	Mon, 11 Sep 2000 07:16:00 -0700	m\012CC: nan\012Date: Mon, 11 Sep 2000 07:16:00 -0700 (PDT)\012Subject: 
+81997	Subject: Re: VaR by Curve	:00 -0700 (PDT)\012Subject: Re: VaR by Curve\012Body: why is ae
+82335	Mon, 11 Sep 2000 02:19:00 -0700	m\012CC: nan\012Date: Mon, 11 Sep 2000 02:19:00 -0700 (PDT)\012Subject: 
+82373	Subject: Re: Sagewood etc.	:00 -0700 (PDT)\012Subject: Re: Sagewood etc.\012Body: Jeff, You
+83046	Fri, 8 Sep 2000 05:30:00 -0700	m\012CC: nan\012Date: Fri, 8 Sep 2000 05:30:00 -0700 (PDT)\012Subject: 
+83083	Subject: Sagewood Town Homes	:00 -0700 (PDT)\012Subject: Sagewood Town Homes\012Body: ---------
+83457	Subject: Sagewood Town Homes I was aware that Regan Lehman, the lot developer for the ent	invest@bga.com> Subject: Sagewood Town Homes I was aware that Regan Lehman, the lot developer for the entire 70 lot duple
+84793	Fri, 8 Sep 2000 05:29:00 -0700	m\012CC: nan\012Date: Fri, 8 Sep 2000 05:29:00 -0700 (PDT)\012Subject: 
+84830	Subject: Westgate Proforma-Phillip Allen.xls	:00 -0700 (PDT)\012Subject: Westgate Proforma-Phillip Allen.xls\012Body: ---------
+85187	Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the	.sanmarcos.net> Subject: Westgate Proforma-Phillip Allen.xls Enclosed is the preliminary proforma for the Westgate proper
+89700	Wed, 6 Sep 2000 08:54:00 -0700	m\012CC: nan\012Date: Wed, 6 Sep 2000 08:54:00 -0700 (PDT)\012Subject: 
+89737	Subject: utilities roll	:00 -0700 (PDT)\012Subject: utilities roll\012Body: ---------
+89974	Subject: utilities roll _________________________________________________________________	n@enron.com cc: Subject: utilities roll _________________________________________________________________________ Get You
+90453	Wed, 6 Sep 2000 07:02:00 -0700	m\012CC: nan\012Date: Wed, 6 Sep 2000 07:02:00 -0700 (PDT)\012Subject: 
+90490	Subject: TIME SENSITIVE: Executive Impact & Influence Program Survey	:00 -0700 (PDT)\012Subject: TIME SENSITIVE: Executive Impact & Influence Program Survey\012Body: ---------
+90754	Subject: TIME SENSITIVE: Executive Impact & Influence Program Survey Executive Impact & I	n@enron.com cc: Subject: TIME SENSITIVE: Executive Impact & Influence Program Survey Executive Impact & Influence Program
+92601	Wed, 6 Sep 2000 07:00:00 -0700	t\012CC: nan\012Date: Wed, 6 Sep 2000 07:00:00 -0700 (PDT)\012Subject: 
+92638	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Larry, Ju
+93515	Tue, 1 May 2001 17:14:00 -0700	m\012CC: nan\012Date: Tue, 1 May 2001 17:14:00 -0700 (PDT)\012Subject: 
+93552	Subject: 4-URGENT - OWA Please print this now.	:00 -0700 (PDT)\012Subject: 4-URGENT - OWA Please print this now.\012Body: ---------
+97242	Subject:=094-URGENT - OWA Please print this now. Current Notes User: REASONS FOR USING O	US= A cc:=09=20 Subject:=094-URGENT - OWA Please print this now. Current Notes User: REASONS FOR USING OUTLOOK WEB ACCES
+99830	Wed, 6 Sep 2000 06:04:00 -0700	m\012CC: nan\012Date: Wed, 6 Sep 2000 06:04:00 -0700 (PDT)\012Subject: 
+99867	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Ina, I sc
+100196	Wed, 6 Sep 2000 04:46:00 -0700	,\012CC: nan\012Date: Wed, 6 Sep 2000 04:46:00 -0700 (PDT)\012Subject: 
+100233	Subject: Wow	:00 -0700 (PDT)\012Subject: Wow\012Body: ---------
+100432	Subject: Wow ---------------------- Forwarded by Jeff Richter/HOU/ECT on 09/06/2000 09:45	HOU/ECT@ECT cc: Subject: Wow ---------------------- Forwarded by Jeff Richter/HOU/ECT on 09/06/2000 09:45 AM ------------
+100793	Subject: Wow ---------------------- Forwarded by Tim Belden/HOU/ECT on 09/06/2000 07:27 A	PDX/ECT@ECT cc: Subject: Wow ---------------------- Forwarded by Tim Belden/HOU/ECT on 09/06/2000 07:27 AM --------------
+101164	Subject: Wow Do not underestimate the effects of the Internet economy on load growth. I h	bin/HOU/ECT@ECT Subject: Wow Do not underestimate the effects of the Internet economy on load growth. I have been preachi
+102199	Subject: ---------------------- Forwarded by John D Suarez/HOU/ECT on 09/05/2000 01:46 PM	Enron@Enron cc: Subject: ---------------------- Forwarded by John D Suarez/HOU/ECT on 09/05/2000 01:46 PM ---------------
+102447	Subject: Internet Data Gain Is a Major Power Drain on Local Utilities ( September 05, 200	TIONS@ENRON cc: Subject: Internet Data Gain Is a Major Power Drain on Local Utilities ( September 05, 2000 ) In 1997, a l
+108075	Wed, 6 Sep 2000 03:46:00 -0700	m\012CC: nan\012Date: Wed, 6 Sep 2000 03:46:00 -0700 (PDT)\012Subject: 
+108112	Subject: Re:	:00 -0700 (PDT)\012Subject: Re:\012Body: Ina, Can 
+108415	Subject: Re: The commercial support people that you and Hunter want to make commercial ma	HOU/ECT@ECT cc: Subject: Re: The commercial support people that you and Hunter want to make commercial managers.\012\012=======
+108701	Tue, 5 Sep 2000 23:22:00 -0700	m\012CC: nan\012Date: Tue, 5 Sep 2000 23:22:00 -0700 (PDT)\012Subject: 
+108738	Subject: Re:	:00 -0700 (PDT)\012Subject: Re:\012Body: resumes o
+108960	Tue, 5 Sep 2000 06:51:00 -0700	m\012CC: nan\012Date: Tue, 5 Sep 2000 06:51:00 -0700 (PDT)\012Subject: 
+108997	Subject: RE: Receipt of Team Selection Form - Executive Impact & Influence	:00 -0700 (PDT)\012Subject: RE: Receipt of Team Selection Form - Executive Impact & Influence\012Body: ---------
+109382	Subject: RE: Receipt of Team Selection Form - Executive Impact & Influence Program We hav	owak@enron.com> Subject: RE: Receipt of Team Selection Form - Executive Impact & Influence Program We have not received y
+109992	Subject: Receipt of Team Selection Form - Executive Impact & Influence Program Importance	 Evans (E-mail) Subject: Receipt of Team Selection Form - Executive Impact & Influence Program Importance: High Hi Philli
+111209	Subject: John Lavorato-M Mike Grigsby-D Keith Holst-D Frank Ermis-D Steve South-D Janie T	@fsddatasvc.com Subject: John Lavorato-M Mike Grigsby-D Keith Holst-D Frank Ermis-D Steve South-D Janie Tholt-D Scott Nea
+111556	Tue, 5 Sep 2000 06:30:00 -0700	m\012CC: nan\012Date: Tue, 5 Sep 2000 06:30:00 -0700 (PDT)\012Subject: 
+111593	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: ---------
+111814	Subject: Mark, Here is a spreadsheet detailing our September Socal trades. (I did not dis	cepress.com cc: Subject: Mark, Here is a spreadsheet detailing our September Socal trades. (I did not distinguish between
+112156	Fri, 1 Sep 2000 06:08:00 -0700	m\012CC: nan\012Date: Fri, 1 Sep 2000 06:08:00 -0700 (PDT)\012Subject: 
+112193	Subject: FYI	:00 -0700 (PDT)\012Subject: FYI\012Body: ---------
+112423	Subject: FYI -- - Ray Niles on Price Caps.pdf	HOU/ECT@ECT cc: Subject: FYI -- - Ray Niles on Price Caps.pdf\012\012==============
+112648	Thu, 31 Aug 2000 07:36:00 -0700	m\012CC: nan\012Date: Thu, 31 Aug 2000 07:36:00 -0700 (PDT)\012Subject: 
+112686	Subject: Re: Western Gas Market Report -- Draft	:00 -0700 (PDT)\012Subject: Re: Western Gas Market Report -- Draft\012Body: Richard, 
+113098	Thu, 31 Aug 2000 06:54:00 -0700	m\012CC: nan\012Date: Thu, 31 Aug 2000 06:54:00 -0700 (PDT)\012Subject: 
+113136	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Cooper, C
+113467	Thu, 31 Aug 2000 06:14:00 -0700	m\012CC: nan\012Date: Thu, 31 Aug 2000 06:14:00 -0700 (PDT)\012Subject: 
+113505	Subject: Receipt of Team Selection Form - Executive Impact & Influence	:00 -0700 (PDT)\012Subject: Receipt of Team Selection Form - Executive Impact & Influence\012Body: ---------
+113934	Subject: Receipt of Team Selection Form - Executive Impact & Influence Program Hi Phillip	fsddatasvc.com> Subject: Receipt of Team Selection Form - Executive Impact & Influence Program Hi Phillip. We appreciate 
+115134	Subject: John Lavorato-M Mike Grigsby-D Keith Holst-D Frank Ermis-D Steve South-D Janie T	@fsddatasvc.com Subject: John Lavorato-M Mike Grigsby-D Keith Holst-D Frank Ermis-D Steve South-D Janie Tholt-D Scott Nea
+115472	Tue, 1 May 2001 17:14:00 -0700	m\012CC: nan\012Date: Tue, 1 May 2001 17:14:00 -0700 (PDT)\012Subject: 
+115509	Subject: 2- SURVEY/INFORMATION EMAIL	:00 -0700 (PDT)\012Subject: 2- SURVEY/INFORMATION EMAIL\012Body: ---------
+119189	Subject:=092- SURVEY/INFORMATION EMAIL Current Notes User:=20 To ensure that you experie	US= A cc:=09=20 Subject:=092- SURVEY/INFORMATION EMAIL Current Notes User:=20 To ensure that you experience a successful
+121087	Thu, 31 Aug 2000 05:02:00 -0700	m\012CC: nan\012Date: Thu, 31 Aug 2000 05:02:00 -0700 (PDT)\012Subject: 
+121125	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: John Lavo
+121485	Thu, 31 Aug 2000 03:17:00 -0700	m\012CC: nan\012Date: Thu, 31 Aug 2000 03:17:00 -0700 (PDT)\012Subject: 
+121523	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: ---------
+121744	Subject: Mark, Here is a spreadsheet detailing our September Socal trades. (I did not dis	cepress.com cc: Subject: Mark, Here is a spreadsheet detailing our September Socal trades. (I did not distinguish between
+122067	Wed, 30 Aug 2000 08:14:00 -0700	m\012CC: nan\012Date: Wed, 30 Aug 2000 08:14:00 -0700 (PDT)\012Subject: 
+122105	Subject: Re: (No Subject)	:00 -0700 (PDT)\012Subject: Re: (No Subject)\012Body: Greg, Got
+122516	Wed, 30 Aug 2000 06:20:00 -0700	m\012CC: nan\012Date: Wed, 30 Aug 2000 06:20:00 -0700 (PDT)\012Subject: 
+122554	Subject: Re: Security Request: CLOG-4NNJEZ has been Denied.	:00 -0700 (PDT)\012Subject: Re: Security Request: CLOG-4NNJEZ has been Denied.\012Body: Why are h
+122847	Tue, 29 Aug 2000 09:20:00 -0700	m\012CC: nan\012Date: Tue, 29 Aug 2000 09:20:00 -0700 (PDT)\012Subject: 
+122885	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Mark, Her
+123232	Tue, 29 Aug 2000 05:38:00 -0700	m\012CC: nan\012Date: Tue, 29 Aug 2000 05:38:00 -0700 (PDT)\012Subject: 
+123270	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Mark, Wer
+123640	Mon, 28 Aug 2000 09:30:00 -0700	m\012CC: nan\012Date: Mon, 28 Aug 2000 09:30:00 -0700 (PDT)\012Subject: 
+123678	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Brenda Ca
+124014	Mon, 28 Aug 2000 06:40:00 -0700	,\012CC: nan\012Date: Mon, 28 Aug 2000 06:40:00 -0700 (PDT)\012Subject: 
+124052	Subject: New Generation	:00 -0700 (PDT)\012Subject: New Generation\012Body: ---------
+124690	Subject: New Generation Sorry, Report as of August 24, 2000	len/HOU/ECT@ECT Subject: New Generation Sorry, Report as of August 24, 2000\012\012==============
+124942	Mon, 28 Aug 2000 06:12:00 -0700	m\012CC: nan\012Date: Mon, 28 Aug 2000 06:12:00 -0700 (PDT)\012Subject: 
+124980	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Mark, The
+126155	Mon, 28 Aug 2000 06:07:00 -0700	m\012CC: nan\012Date: Mon, 28 Aug 2000 06:07:00 -0700 (PDT)\012Subject: 
+126193	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Mark, Att
+127349	Mon, 30 Apr 2001 19:04:00 -0700	m\012CC: nan\012Date: Mon, 30 Apr 2001 19:04:00 -0700 (PDT)\012Subject: 
+127387	Subject: Re: Request from Steve Kean	:00 -0700 (PDT)\012Subject: Re: Request from Steve Kean\012Body: Alan, You
+127732	Fri, 25 Aug 2000 06:32:00 -0700	m\012CC: nan\012Date: Fri, 25 Aug 2000 06:32:00 -0700 (PDT)\012Subject: 
+127770	Subject: Re: Meeting to discuss 2001 direct expense plan?	:00 -0700 (PDT)\012Subject: Re: Meeting to discuss 2001 direct expense plan?\012Body: Suzanne, 
+128201	Fri, 25 Aug 2000 04:03:00 -0700	m\012CC: nan\012Date: Fri, 25 Aug 2000 04:03:00 -0700 (PDT)\012Subject: 
+128239	Subject: Re: regulatory filing summary	:00 -0700 (PDT)\012Subject: Re: regulatory filing summary\012Body: Colleen, 
+128644	Fri, 25 Aug 2000 03:30:00 -0700	enron.com\012Date: Fri, 25 Aug 2000 03:30:00 -0700 (PDT)\012Subject: 
+128682	Subject: Cc: john.lavorato@enron.com, hunter.shively@enron.com	:00 -0700 (PDT)\012Subject: Cc: john.lavorato@enron.com, hunter.shively@enron.com\012Body: Brad, Wit
+129443	Fri, 25 Aug 2000 01:58:00 -0700	m\012CC: nan\012Date: Fri, 25 Aug 2000 01:58:00 -0700 (PDT)\012Subject: 
+129481	Subject: Re: Evaluation for new trading application	:00 -0700 (PDT)\012Subject: Re: Evaluation for new trading application\012Body: Bruce, Ca
+129785	Fri, 25 Aug 2000 01:47:00 -0700	m\012CC: nan\012Date: Fri, 25 Aug 2000 01:47:00 -0700 (PDT)\012Subject: 
+129823	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Lucy, The
+130710	Thu, 24 Aug 2000 02:48:00 -0700	m\012CC: nan\012Date: Thu, 24 Aug 2000 02:48:00 -0700 (PDT)\012Subject: 
+130748	Subject: Re: receipts	:00 -0700 (PDT)\012Subject: Re: receipts\012Body: Lucy, I g
+131057	Wed, 23 Aug 2000 08:23:00 -0700	m\012CC: nan\012Date: Wed, 23 Aug 2000 08:23:00 -0700 (PDT)\012Subject: 
+131095	Subject: Re: ENA Fileplan Project - Needs your approval	:00 -0700 (PDT)\012Subject: Re: ENA Fileplan Project - Needs your approval\012Body: you have 
+131370	Wed, 23 Aug 2000 07:09:00 -0700	m\012CC: nan\012Date: Wed, 23 Aug 2000 07:09:00 -0700 (PDT)\012Subject: 
+131408	Subject: Re: checkbook and budget	:00 -0700 (PDT)\012Subject: Re: checkbook and budget\012Body: Lucy, We 
+131873	Wed, 23 Aug 2000 04:25:00 -0700	m\012CC: nan\012Date: Wed, 23 Aug 2000 04:25:00 -0700 (PDT)\012Subject: 
+131911	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Lucy, Ple
+132245	Tue, 22 Aug 2000 08:22:00 -0700	m\012CC: nan\012Date: Tue, 22 Aug 2000 08:22:00 -0700 (PDT)\012Subject: 
+132283	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Open the 
+132874	Mon, 30 Apr 2001 14:22:00 -0700	m\012CC: nan\012Date: Mon, 30 Apr 2001 14:22:00 -0700 (PDT)\012Subject: 
+132912	Subject: Request from Steve Kean	:00 -0700 (PDT)\012Subject: Request from Steve Kean\012Body: ---------
+133159	Subject: Request from Steve Kean Phillip, I got this request. On the gas side, I think Ke	orp/Enron@ENRON Subject: Request from Steve Kean Phillip, I got this request. On the gas side, I think Kean/Lay need an u
+133644	Subject: Request from Steve Kean Alan, Steve has asked that you update the power point be	/NA/Enron@Enron Subject: Request from Steve Kean Alan, Steve has asked that you update the power point below so that it r
+134249	Mon, 21 Aug 2000 09:40:00 -0700	m\012CC: nan\012Date: Mon, 21 Aug 2000 09:40:00 -0700 (PDT)\012Subject: 
+134287	Subject: Mime-Version: 1.0	:00 -0700 (PDT)\012Subject: Mime-Version: 1.0\012Body: Mac, Than
+135256	Sun, 20 Aug 2000 10:39:00 -0700	m\012CC: nan\012Date: Sun, 20 Aug 2000 10:39:00 -0700 (PDT)\012Subject: 
+135294	Subject: Daily Duties	:00 -0700 (PDT)\012Subject: Daily Duties\012Body: ---------
+135529	Subject: Daily Duties Phillip, We have been working on different apartments today and hav	n@enron.com cc: Subject: Daily Duties Phillip, We have been working on different apartments today and having to listen to
+136463	Sun, 20 Aug 2000 10:39:00 -0700	m\012CC: nan\012Date: Sun, 20 Aug 2000 10:39:00 -0700 (PDT)\012Subject: 
+136501	Subject: Daily Report	:00 -0700 (PDT)\012Subject: Daily Report\012Body: ---------
+136736	Subject: Daily Report Phillip, The a/c I bought today for #17 cost $166.71 pd by ck#1429 	n@enron.com cc: Subject: Daily Report Phillip, The a/c I bought today for #17 cost $166.71 pd by ck#1429 8/16/00 at WAL-M
+137428	Sun, 20 Aug 2000 10:38:00 -0700	m\012CC: nan\012Date: Sun, 20 Aug 2000 10:38:00 -0700 (PDT)\012Subject: 
+137466	Subject: Daily Report	:00 -0700 (PDT)\012Subject: Daily Report\012Body: ---------
+137701	Subject: Daily Report Phillip, Today was one of those days because Wade had to go pay his	n@enron.com cc: Subject: Daily Report Phillip, Today was one of those days because Wade had to go pay his fine and I had 
+138404	Thu, 17 Aug 2000 08:53:00 -0700	m\012CC: nan\012Date: Thu, 17 Aug 2000 08:53:00 -0700 (PDT)\012Subject: 
+138442	Subject: Re: enron close to 85	:00 -0700 (PDT)\012Subject: Re: enron close to 85\012Body: I checked

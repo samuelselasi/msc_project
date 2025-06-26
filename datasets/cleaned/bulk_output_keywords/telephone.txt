@@ -1,0 +1,29 @@
+# BANNER FILE NOT PROVIDED (-b option)
+# BULK_EXTRACTOR-Version: 2.1.1
+# Feature-Recorder: telephone
+# Filename: cleaned_split-1.txt
+# Feature-File-Version: 1.1
+3801	505-798-6424	que, NM 87113 > 505-798-6424 > 505-798-6050x
+3816	505-798-6050	 505-798-6424 > 505-798-6050x > 505-220-4129
+3832	505-220-4129	505-798-6050x > 505-220-4129 > 888/501-3145 
+3847	888/501-3145	 505-220-4129 > 888/501-3145 >"\012"Re: FW: fix
+4100	713-853-7107	phone number is 713-853-7107. Phillip Allen"
+19367	303-575-6490	A Denver office 303-575-6490"\012"Mime-Version:
+58222	512-338-1119	ening at either 512-338-1119 or 512-338-1110
+58238	512-338-1110	512-338-1119 or 512-338-1110. My cell phone 
+58269	512-748-7495	y cell phone is 512-748-7495 and the fax is 
+58297	512-338-1103	 and the fax is 512-338-1103. I look forward
+67080	512-338-1119	ening at either 512-338-1119 or 512-338-1110
+67096	512-338-1110	512-338-1119 or 512-338-1110. My cell phone 
+67127	512-748-7495	y cell phone is 512-748-7495 and the fax is 
+67155	512-338-1103	 and the fax is 512-338-1103. I look forward
+74649	512-338-1119	ening at either 512-338-1119 or 512-338-1110
+74665	512-338-1110	512-338-1119 or 512-338-1110. My cell phone 
+74696	512-748-7495	y cell phone is 512-748-7495 and the fax is 
+74724	512-338-1103	 and the fax is 512-338-1103. I look forward
+78013	713-942-8436	 Data Services, 713-942-8436. If you have an
+78112	713-853-3304	Nowak at Enron, 713-853-3304, or Christi Smi
+78175	858-450-2554	mith & Company, 858-450-2554. Thank you for 
+95172	858/450-2554	smith & Company 858/450-2554 -----Original M
+97889	858/450-2554	smith & Company 858/450-2554 -----Original M
+105983	(713)853-7041	 can call me at (713)853-7041 or Kathy Moore,
