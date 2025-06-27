@@ -11,8 +11,8 @@ The goal of this phase is to demonstrate how **BFV Homomorphic Encryption** (via
 
 | File                          | Description |
 |-------------------------------|-------------|
-| `optimized_encryption.cpp`    | Encrypts a preprocessed Enron email dataset using BFV and stores the result as encrypted tokens. |
-| `optimized_search.cpp`        | Accepts a keyword input, encrypts it, and performs a match on the encrypted dataset using homomorphic operations. |
+| `optimized_encryption_1.cpp`    | Encrypts a preprocessed Enron email dataset using BFV and stores the result as encrypted tokens. |
+| `optimized_search_1.cpp`        | Accepts a keyword input, encrypts it, and performs a match on the encrypted dataset using homomorphic operations. |
 | `encrypt_split_1.cpp`         | Legacy version of the encryption script for testing or comparison. |
 | `search_encrypted.cpp`        | Legacy version of the search script for testing or comparison. |
 | `libseal.a`                   | Compiled Microsoft SEAL static library. |
@@ -111,12 +111,19 @@ This supports benchmarking HE-based search versus plaintext baseline.
 * All tokens are sanitized, limited to printable ASCII, and encoded via SEAL's **BatchEncoder**.
 
 
-## Future Optimizations
-The current implementation uses **linear search** through encrypted tokens. Future improvements may include:
+## Improved Optimizations
 
-- Dictionary-based token indexing
-- Noise budget management
-- Bootstrapping for deeper evaluations
+This directory implements performance enhancements over the baseline homomorphic encryption setup:
+
+* **Indexed Dictionary Encoding**: Avoids re-encrypting duplicate tokens by referencing a single ciphertext per unique word.
+
+* **Base64 Encoding**: Efficient serialization and storage of ciphertexts in JSON format.
+
+* **Single File Format**: Merges the encrypted dictionary and message-token mappings for streamlined loading.
+
+* **Execution Time Metrics**: Measures encryption and search duration to support performance benchmarking.
+
+These optimizations significantly reduce memory usage, processing time, and redundancy — making homomorphic keyword search more feasible at scale.
 
 
 ## References
