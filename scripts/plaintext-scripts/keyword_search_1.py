@@ -1,5 +1,6 @@
 import pandas as pd
 import sys
+import time
 
 # -----------------------------
 # Step 1: Handle CLI argument
@@ -20,6 +21,7 @@ df = pd.read_csv("../../datasets/cleaned/split-1.csv")
 # -----------------------------
 # Step 3: Define search logic
 # -----------------------------
+start_time = time.time()
 matches = []
 
 for i, row in df.iterrows():
@@ -32,6 +34,9 @@ for i, row in df.iterrows():
             "subject": row.get("subject", ""),
             "body_snippet": row.get("body", "")
         })
+
+end_time = time.time()
+elapsed = end_time - start_time
 
 # -----------------------------
 # Step 4: Output results
@@ -46,3 +51,5 @@ else:
         print(f"Subject: {m['subject']}")
         print(f"Body: {m['body_snippet']}\n")
         print("=" * 90 + "\n")
+
+print(f"Search completed in {elapsed:.4f} seconds.")
