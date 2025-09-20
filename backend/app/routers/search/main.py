@@ -28,7 +28,7 @@ def get_db():
 
 def run_cpp_search(keyword: str) -> str:
     binary_path = settings.SEARCH_EXECUTABLE_PATH
-    working_dir = "/opt/msc/msc_project/scripts/HE-scripts"
+    working_dir = "/opt/msc/heksm/scripts/HE-scripts"
 
     try:
         result = subprocess.run(
