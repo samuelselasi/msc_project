@@ -19,6 +19,7 @@ cd heksm/frontend
 Install the project dependencies:
 
 ```
+nvm use 20
 npm install
 ```
 
